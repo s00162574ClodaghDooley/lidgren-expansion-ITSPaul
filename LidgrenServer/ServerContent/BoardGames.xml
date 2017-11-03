@@ -1,0 +1,3405 @@
+<boardgames termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+    <boardgame objectid="2405">
+        <name > Ten beats all except ace </name>
+        <yearpublished>1869</yearpublished>
+    </boardgame>
+    <boardgame objectid="39559">
+        <name primary="true">1. FC Kaiserslautern: Das Gesellschaftsspiel für alle Fans der roten Teufel</name>
+          <yearpublished>1978</yearpublished>
+    </boardgame>
+    <boardgame objectid="33705">
+        <name primary="true">101: The Win It All Card Game</name>
+        <yearpublished>1978</yearpublished>
+    </boardgame>
+    <boardgame objectid="225341">
+        <name primary="true">1754: Conquest – Native Alliance Expansion</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="176607">
+        <name primary="true">2 Super Spiele: Allegro Zet</name>
+      <yearpublished>1978</yearpublished>
+    </boardgame>
+    <boardgame objectid="114827">
+        <name primary="true">300 all Ora</name>
+        <yearpublished>1969</yearpublished>
+    </boardgame>
+    <boardgame objectid="155142">
+        <name primary="true">9-all</name>
+        <yearpublished>1956</yearpublished>
+    </boardgame>
+    <boardgame objectid="123417">
+        <name >The A-Team All-Action Bagatelle</name>
+        <yearpublished>1819</yearpublished>
+    </boardgame>
+    <boardgame objectid="10313">
+        <name primary="true">Action All-Pro Football</name>
+        <yearpublished>1989</yearpublished>
+    </boardgame>
+    <boardgame objectid="114143">
+        <name primary="true">Activity: Alles ist möglich</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="164855">
+        <name primary="true">Admiral s Order: Naval Tactics in the Age of Sail – All Hands!</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="7278">
+        <name primary="true">Against All Odds</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="230079">
+        <name primary="true">Against All Odds: Battle for the Golan Heights</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="187635">
+        <name primary="true">Age of Craft Expansion #2: Architecture Alliance</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="179814">
+        <name primary="true">Agents of SMERSH: All the Kickstarter Promos</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="119890">
+        <name primary="true">Agricola: All Creatures Big and Small</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="145355">
+        <name primary="true">Agricola: All Creatures Big and Small – Even More Buildings Big and Small</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="130752">
+        <name primary="true">Agricola: All Creatures Big and Small – More Buildings Big and Small</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="179124">
+        <name primary="true">Air Alliance</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="145311">
+        <name primary="true">Alchemist: All for One, Two for All</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="13441">
+        <name primary="true">All Aboard</name>
+        <yearpublished>1986</yearpublished>
+    </boardgame>
+    <boardgame objectid="36483">
+        <name primary="true">All Aboard</name>
+        <yearpublished>1992</yearpublished>
+    </boardgame>
+    <boardgame objectid="44250">
+        <name primary="true">All Aboard</name>
+        <yearpublished>1900</yearpublished>
+    </boardgame>
+    <boardgame objectid="15885">
+        <name primary="true">All Aboard!</name>
+        <yearpublished>1976</yearpublished>
+    </boardgame>
+    <boardgame objectid="122795">
+        <name primary="true">All Aboard!</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="97115">
+        <name primary="true">All About Albany</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="119293">
+        <name primary="true">All About Appleton</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="119294">
+        <name primary="true">All About Auburn - Cayuga County</name>
+        <yearpublished>1980</yearpublished>
+    </boardgame>
+    <boardgame objectid="119306">
+        <name primary="true">All About Baltimore</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="31596">
+        <name primary="true">All About Broome County</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="119298">
+        <name primary="true">All About Charlotte</name>
+    </boardgame>
+    <boardgame objectid="10576">
+        <name primary="true">All About Colorado Springs Colorado</name>
+        <yearpublished>1980</yearpublished>
+    </boardgame>
+    <boardgame objectid="29166">
+        <name primary="true">All About Cumberland, Maryland</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="25712">
+        <name primary="true">All About Delaware</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="110729">
+        <name >All about dogs</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="94205">
+        <name primary="true">All About Football</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="125891">
+        <name primary="true">All About Greeley</name>
+        <yearpublished>1980</yearpublished>
+    </boardgame>
+    <boardgame objectid="19533">
+        <name primary="true">All About Harrisburg</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="99283">
+        <name primary="true">All About Ithaca &amp; Tompkins County, NY</name>
+        <yearpublished>1980</yearpublished>
+    </boardgame>
+    <boardgame objectid="27943">
+        <name primary="true">All About Jefferson City</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="119307">
+        <name primary="true">All About Kansas City</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="119299">
+        <name primary="true">All About Knoxville Tennessee</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="119300">
+        <name primary="true">All About Lancaster County</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="119301">
+        <name primary="true">All About Lancaster Pennsylvania</name>
+        <yearpublished>1980</yearpublished>
+    </boardgame>
+    <boardgame objectid="119302">
+        <name primary="true">All About Mercer County</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="29167">
+        <name primary="true">All About Minneapolis</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="119303">
+        <name primary="true">All About New Orleans</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="119304">
+        <name primary="true">All About Pittsburgh</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="29325">
+        <name primary="true">All About Pueblo</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="67409">
+        <name primary="true">All About Raleigh, North Carolina</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="120816">
+        <name primary="true">All About Richmond</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="25355">
+        <name primary="true">All About Savannah</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="119291">
+        <name primary="true">All About Scranton</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="40165">
+        <name primary="true">All About St. Paul</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="101350">
+        <name primary="true">All About Syracuse</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="195285">
+        <name primary="true">All About Town Waterville Maine</name>
+        <yearpublished>1979</yearpublished>
+    </boardgame>
+    <boardgame objectid="236883">
+        <name primary="true">All About Town: Burlington, Vermont</name>
+        <yearpublished>1979</yearpublished>
+    </boardgame>
+    <boardgame objectid="153244">
+        <name primary="true">All About Town: Charleston, South Carolina</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="25890">
+        <name primary="true">All About Town: Charlottesville, VA</name>
+    </boardgame>
+    <boardgame objectid="180713">
+        <name primary="true">All About Town: Columbia, South Carolina</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="80653">
+        <name primary="true">All About Town: Greater Bangor, ME</name>
+        <yearpublished>1979</yearpublished>
+    </boardgame>
+    <boardgame objectid="172744">
+        <name primary="true">All About Town: Indianapolis</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="66515">
+        <name primary="true">All About Town: Milwaukee</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="61124">
+        <name primary="true">All About Town: Newport County Rhode Island</name>
+        <yearpublished>1979</yearpublished>
+    </boardgame>
+    <boardgame objectid="182543">
+        <name primary="true">All About Town: The Game of Louisville</name>
+        <yearpublished>1980</yearpublished>
+    </boardgame>
+    <boardgame objectid="19436">
+        <name primary="true">All About Town: The Game of the Racine Area</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="119292">
+        <name primary="true">All About Ulster County New York</name>
+    </boardgame>
+    <boardgame objectid="187018">
+        <name primary="true">All About Vineland</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="103375">
+        <name primary="true">All About White Plains</name>
+        <yearpublished>1980</yearpublished>
+    </boardgame>
+    <boardgame objectid="119305">
+        <name primary="true">All About York</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="174245">
+        <name primary="true">All About Yourself</name>
+    </boardgame>
+    <boardgame objectid="24983">
+        <name >All Americam Skittle Score-Ball</name>
+        <yearpublished>1971</yearpublished>
+    </boardgame>
+    <boardgame objectid="145443">
+        <name primary="true">All American</name>
+    </boardgame>
+    <boardgame objectid="26509">
+        <name primary="true">All American Baseball</name>
+        <yearpublished>1962</yearpublished>
+    </boardgame>
+    <boardgame objectid="171">
+        <name >All American Chessmen</name>
+        <yearpublished>1475</yearpublished>
+    </boardgame>
+    <boardgame objectid="13442">
+        <name primary="true">All American Football</name>
+        <yearpublished>1925</yearpublished>
+    </boardgame>
+    <boardgame objectid="29154">
+        <name primary="true">All American Handicap</name>
+        <yearpublished>1950</yearpublished>
+    </boardgame>
+    <boardgame objectid="8718">
+        <name primary="true">All American III: Shanley s Hill</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="8202">
+        <name primary="true">The All American Trivia Board Game</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="32297">
+        <name >The All American Trivia Board Game: Junior Edition</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="32299">
+        <name primary="true">All American: Kellam s Bridge</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="33512">
+        <name primary="true">All American: Timmes  Orchard</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="60136">
+        <name primary="true">All American: United States Expansion Pack</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="182480">
+        <name primary="true">All Are Brothers: Solferino, 1859</name>
+    </boardgame>
+    <boardgame objectid="79854">
+        <name primary="true">All Around Northern Virginia</name>
+    </boardgame>
+    <boardgame objectid="59925">
+        <name primary="true">All Around the Farm</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="200464">
+        <name primary="true">All Around the Playground</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="28011">
+        <name primary="true">All Around Town</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="67893">
+        <name primary="true">All Around Town Sorting Game</name>
+    </boardgame>
+    <boardgame objectid="23090">
+        <name primary="true">All at Sea</name>
+        <yearpublished>2002</yearpublished>
+    </boardgame>
+    <boardgame objectid="155971">
+        <name primary="true">All Bunnies Eat Carrots</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="11822">
+        <name primary="true">The All Canadian Trivia Board Game</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="14270">
+        <name primary="true">The All Canadian Trivia Board Game: Junior Edition</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="24126">
+        <name primary="true">The All Canadian Trivia Board Game: Millennium Edition</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="49834">
+        <name primary="true">All Canadian Trivia Board Game: Supplementary Question Set</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="13905">
+        <name primary="true">All Change</name>
+        <yearpublished>1977</yearpublished>
+    </boardgame>
+    <boardgame objectid="24765">
+        <name primary="true">All Change</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="65416">
+        <name primary="true">All Decked Out</name>
+    </boardgame>
+    <boardgame objectid="12428">
+        <name primary="true">All Ears</name>
+        <yearpublished>1992</yearpublished>
+    </boardgame>
+    <boardgame objectid="32797">
+        <name primary="true">All Fall Down</name>
+        <yearpublished>1971</yearpublished>
+    </boardgame>
+    <boardgame objectid="172976">
+        <name primary="true">All Fathomed Out</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="20941">
+        <name primary="true">All For One</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="28082">
+        <name primary="true">All for One</name>
+    </boardgame>
+    <boardgame objectid="178282">
+        <name primary="true">All Gods Are Dying</name>
+    </boardgame>
+    <boardgame objectid="178878">
+        <name primary="true">ALL GREEN</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="35329">
+        <name primary="true">All Grown Up</name>
+    </boardgame>
+    <boardgame objectid="227598">
+        <name primary="true">All Hail Caesar</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="221918">
+        <name primary="true">All Hail King Julien</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="98087">
+        <name primary="true">All Hallows Eve</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="200792">
+        <name primary="true">All Hands On Deck</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="148117">
+        <name primary="true">All Hands on Deck!</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="152081">
+        <name primary="true">All Hands!</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="41635">
+        <name primary="true">All In</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="196831">
+        <name primary="true">All In</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="9236">
+        <name primary="true">The All in the Family Game</name>
+        <yearpublished>1972</yearpublished>
+    </boardgame>
+    <boardgame objectid="22940">
+        <name primary="true">All is lost save Honour</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="117702">
+        <name primary="true">All is lost to me: Pavia 1525</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="14367">
+        <name >All jordens spel och lekar</name>
+        <yearpublished>1975</yearpublished>
+    </boardgame>
+    <boardgame objectid="173082">
+        <name primary="true">All kinds of flowers profusion</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="112034">
+        <name primary="true">All meine Früchtchen</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="9575">
+        <name primary="true">All My Children</name>
+        <yearpublished>1985</yearpublished>
+    </boardgame>
+    <boardgame objectid="12149">
+        <name primary="true">All My Children Fact or Fantasy Question Card Game</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="38150">
+        <name primary="true">All My Diamonds</name>
+        <yearpublished>1969</yearpublished>
+    </boardgame>
+    <boardgame objectid="15346">
+        <name primary="true">All My Ducks</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="188399">
+        <name primary="true">All my Friends are Psycho</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="21389">
+        <name >All Nations</name>
+        <yearpublished>1851</yearpublished>
+    </boardgame>
+    <boardgame objectid="150565">
+        <name primary="true">The All New Act One</name>
+        <yearpublished>2002</yearpublished>
+    </boardgame>
+    <boardgame objectid="18526">
+        <name primary="true">The All New Brit Quiz Game</name>
+        <yearpublished>1994</yearpublished>
+    </boardgame>
+    <boardgame objectid="36854">
+        <name primary="true">The All New Dating Game</name>
+        <yearpublished>1987</yearpublished>
+    </boardgame>
+    <boardgame objectid="9607">
+        <name >The All New Enigma</name>
+        <yearpublished>1988</yearpublished>
+    </boardgame>
+    <boardgame objectid="34015">
+        <name primary="true">All of Me</name>
+        <yearpublished>1986</yearpublished>
+    </boardgame>
+    <boardgame objectid="145581">
+        <name primary="true">All of the Word Games: Yes or No</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="196647">
+        <name primary="true">All or Nothing</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="2181">
+        <name >All Plastic Cards Bridge</name>
+        <yearpublished>1925</yearpublished>
+    </boardgame>
+    <boardgame objectid="173404">
+        <name primary="true">All Queens Chess</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="142219">
+        <name primary="true">All Quiet on the Martian Front</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="225761">
+        <name primary="true">All Quiet on the Potomac</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="9044">
+        <name primary="true">All Quiet on the Western Front</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="57314">
+        <name primary="true">All Quiet on the Western Front</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="29831">
+        <name primary="true">All Star Basketball</name>
+        <yearpublished>1956</yearpublished>
+    </boardgame>
+    <boardgame objectid="30338">
+        <name primary="true">All Star Comics Card Game</name>
+        <yearpublished>1934</yearpublished>
+    </boardgame>
+    <boardgame objectid="5312">
+        <name >All Star Family Fortunes</name>
+        <yearpublished>1977</yearpublished>
+    </boardgame>
+    <boardgame objectid="29830">
+        <name primary="true">All Star Football</name>
+        <yearpublished>1956</yearpublished>
+    </boardgame>
+    <boardgame objectid="29753">
+        <name primary="true">All Star Hockey Game</name>
+        <yearpublished>1937</yearpublished>
+    </boardgame>
+    <boardgame objectid="28042">
+        <name primary="true">All Star NBPA Basketball</name>
+        <yearpublished>1968</yearpublished>
+    </boardgame>
+    <boardgame objectid="123524">
+        <name primary="true">All Star Wrestling Power Slam VCR Wrestling Game</name>
+        <yearpublished>1986</yearpublished>
+    </boardgame>
+    <boardgame objectid="31428">
+        <name primary="true">All Stars Coach</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="125439">
+        <name primary="true">All the Answers</name>
+        <yearpublished>2000</yearpublished>
+    </boardgame>
+    <boardgame objectid="20805">
+        <name primary="true">All the Best Drinking Games in the World</name>
+    </boardgame>
+    <boardgame objectid="32591">
+        <name primary="true">All the King s Horses</name>
+        <yearpublished>1976</yearpublished>
+    </boardgame>
+    <boardgame objectid="1289">
+        <name >All The King s Men</name>
+        <yearpublished>1970</yearpublished>
+    </boardgame>
+    <boardgame objectid="174921">
+        <name primary="true">All The Kingdom s Men</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="163492">
+        <name primary="true">All The Kings Men</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="22849">
+        <name primary="true">All the Way Down</name>
+        <yearpublished>1976</yearpublished>
+    </boardgame>
+    <boardgame objectid="485">
+        <name >All the Way Home</name>
+        <yearpublished>1992</yearpublished>
+    </boardgame>
+    <boardgame objectid="99376">
+        <name primary="true">All the Winners</name>
+        <yearpublished>1925</yearpublished>
+    </boardgame>
+    <boardgame objectid="20586">
+        <name primary="true">All Things Zombie</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="42101">
+        <name primary="true">All Things Zombie: Better Dead Than Zed!</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="133748">
+        <name primary="true">All Things Zombie: Final Fade Out</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="72212">
+        <name primary="true">All Things Zombie: Giving Up The Goat</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="56897">
+        <name primary="true">All Things Zombie: Haven</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="85129">
+        <name primary="true">All Things Zombie: I, Zombie</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="177977">
+        <name primary="true">All Things Zombie: Reloaded</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="213212">
+        <name primary="true">All Things Zombie: Reloaded – The Dead Never Sleep</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="113523">
+        <name primary="true">All Things Zombie: Risks and Rewards</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="36986">
+        <name primary="true">All Things Zombie: The Boardgame</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="86573">
+        <name primary="true">All Time 9</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="77200">
+        <name primary="true">All Time Championship Soccer</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="84405">
+        <name primary="true">All Time Favorites</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="187384">
+        <name primary="true">All Tricks, No Treats</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="12422">
+        <name primary="true">All Wound Up</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="95405">
+        <name primary="true">All Wrapped Up!</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="104818">
+        <name primary="true">All Your Animals</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="237360">
+        <name primary="true">All Your Base: Last Of Last – The Card Game</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="122732">
+        <name primary="true">All Your Mechs Are Belong To Us</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="23195">
+        <name primary="true">All Appalto!</name>
+    </boardgame>
+    <boardgame objectid="11205">
+        <name primary="true">All-American Football</name>
+        <yearpublished>1958</yearpublished>
+    </boardgame>
+    <boardgame objectid="204403">
+        <name primary="true">All-American Football Game</name>
+        <yearpublished>1935</yearpublished>
+    </boardgame>
+    <boardgame objectid="33268">
+        <name primary="true">All-Arounder: Women s Gymnastics Game</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="56805">
+        <name primary="true">All-District: The Game of High School Basketball</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="10789">
+        <name >All-Fours</name>
+        <yearpublished>1600</yearpublished>
+    </boardgame>
+    <boardgame objectid="9766">
+        <name primary="true">All-in-the-Cards Football</name>
+        <yearpublished>1987</yearpublished>
+    </boardgame>
+    <boardgame objectid="10987">
+        <name primary="true">All-in-the-Dice Baseball</name>
+        <yearpublished>1988</yearpublished>
+    </boardgame>
+    <boardgame objectid="12882">
+        <name primary="true">All-Pro Baseball</name>
+        <yearpublished>1969</yearpublished>
+    </boardgame>
+    <boardgame objectid="12881">
+        <name primary="true">All-Pro Basketball</name>
+        <yearpublished>1969</yearpublished>
+    </boardgame>
+    <boardgame objectid="10354">
+        <name primary="true">All-Pro Football</name>
+        <yearpublished>1967</yearpublished>
+    </boardgame>
+    <boardgame objectid="5330">
+        <name primary="true">All-Pro Hockey</name>
+        <yearpublished>1969</yearpublished>
+    </boardgame>
+    <boardgame objectid="12552">
+        <name primary="true">All-Pro-Star Fighting</name>
+    </boardgame>
+    <boardgame objectid="39171">
+        <name primary="true">All-purpose Miniatures Rules</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="69244">
+        <name primary="true">All-Season Basketball</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="174323">
+        <name primary="true">The All-Seeing Eye</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="3157">
+        <name primary="true">All-Star Baseball</name>
+        <yearpublished>1941</yearpublished>
+    </boardgame>
+    <boardgame objectid="172539">
+        <name primary="true">All-Star Baseball Card Game</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="7584">
+        <name >All-Star Electric Football Game</name>
+        <yearpublished>1948</yearpublished>
+    </boardgame>
+    <boardgame objectid="21170">
+        <name primary="true">All-Star Face-Off</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="194210">
+        <name primary="true">All-Star Wrestling Rejects</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="34322">
+        <name primary="true">All-tes-teg-enuk</name>
+    </boardgame>
+    <boardgame objectid="39685">
+        <name primary="true">All-time Baseball</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="34350">
+        <name primary="true">All-Time Hockey</name>
+        <yearpublished>1990</yearpublished>
+    </boardgame>
+    <boardgame objectid="27772">
+        <name primary="true">Alla mot en</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="31136">
+        <name >Alla Mot En</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="208819">
+        <name primary="true">Alla ricerca di Dory: Occhio al tentacolo</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="168166">
+        <name >Alla scoperta del tesoro!</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="7067">
+        <name >Alla scuola dei Fantasmi</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="26137">
+        <name >Alla Tu</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="69158">
+        <name primary="true">Alla vägar bär till Rom</name>
+        <yearpublished>1977</yearpublished>
+    </boardgame>
+    <boardgame objectid="22602">
+        <name primary="true">Allaboutfootball</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="39065">
+        <name primary="true">Allah Akbar: The First Crusader s 1096AD. - 1099 AD.</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="7395">
+        <name >Allan B. Calhamer s Naval Game</name>
+        <yearpublished>1979</yearpublished>
+    </boardgame>
+    <boardgame objectid="12409">
+        <name >Allan Sherman s Camp Granada Game</name>
+        <yearpublished>1965</yearpublished>
+    </boardgame>
+    <boardgame objectid="32542">
+        <name >Allarme</name>
+        <yearpublished>1975</yearpublished>
+    </boardgame>
+    <boardgame objectid="6517">
+        <name >Allarme nello spazio</name>
+        <yearpublished>1978</yearpublished>
+    </boardgame>
+    <boardgame objectid="32968">
+        <name >Allarme Squali !!!</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="11868">
+        <name >Allarme!</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="79514">
+        <name primary="true">Alle alle</name>
+        <yearpublished>1993</yearpublished>
+    </boardgame>
+    <boardgame objectid="35901">
+        <name >Alle donders!</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="59311">
+        <name >Alle donders!  Groot en klein</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="118176">
+        <name primary="true">Alle Falde del Kilimangiaro</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="11974">
+        <name >Alle hens aan dek, ahoi!</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="236013">
+        <name primary="true">Alle Kinder, groß und klein, sparen beim Schulsparverein</name>
+    </boardgame>
+    <boardgame objectid="137428">
+        <name primary="true">Alle Machen Mit: Kofferpacken</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="31628">
+        <name primary="true">Alle meine Entchen</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="135865">
+        <name primary="true">Alle meine Entchen</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="62726">
+        <name primary="true">Alle meine Entchen...</name>
+        <yearpublished>1987</yearpublished>
+    </boardgame>
+    <boardgame objectid="35661">
+        <name >Alle meine Farben</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="43174">
+        <name >Alle meine Gefühle</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="13903">
+        <name >Alle meine Schweinchen</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="24201">
+        <name >Alle meine Schäfchen</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="34485">
+        <name primary="true">Alle meine Tiere</name>
+        <yearpublished>1990</yearpublished>
+    </boardgame>
+    <boardgame objectid="111030">
+        <name primary="true">Alle meine Tiere</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="135868">
+        <name primary="true">Alle meine Tiere</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="226500">
+        <name primary="true">Alle meine Tiere</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="9851">
+        <name >Alle Negen</name>
+        <yearpublished>1750</yearpublished>
+    </boardgame>
+    <boardgame objectid="39683">
+        <name >Alle Porte di Loyang</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="15599">
+        <name >alle sechse</name>
+        <yearpublished>1978</yearpublished>
+    </boardgame>
+    <boardgame objectid="834">
+        <name >Alle tiders spill</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="13223">
+        <name >Alle tiders spill</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="40025">
+        <name primary="true">Alle Vögel sind schon da</name>
+        <yearpublished>1989</yearpublished>
+    </boardgame>
+    <boardgame objectid="164156">
+        <name primary="true">Alle Vögel sind schon da!</name>
+    </boardgame>
+    <boardgame objectid="171397">
+        <name primary="true">Alle Vögel sind schon da!</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="45756">
+        <name primary="true">Alle Wege führen nach Rom</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="15475">
+        <name primary="true">Allegiance</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="64362">
+        <name primary="true">Allegiance</name>
+        <yearpublished>1964</yearpublished>
+    </boardgame>
+    <boardgame objectid="152370">
+        <name primary="true">Allegiance</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="147887">
+        <name primary="true">Allegiance: A Realm Divided</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="10893">
+        <name primary="true">Allegiance: War of Factions</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="141883">
+        <name primary="true">Allegrando</name>
+        <yearpublished>1884</yearpublished>
+    </boardgame>
+    <boardgame objectid="49443">
+        <name >Allegri dinosauri</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="102898">
+        <name >Gli Allegri Pirati</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="17740">
+        <name primary="true">Allegro</name>
+        <yearpublished>1977</yearpublished>
+    </boardgame>
+    <boardgame objectid="5625">
+        <name >The Allen Funt Candid Camera Game</name>
+        <yearpublished>1963</yearpublished>
+    </boardgame>
+    <boardgame objectid="162483">
+        <name primary="true">Allen s Dirt The Game</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="4832">
+        <name primary="true">Allenby s Blitzkrieg</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="171890">
+        <name >Das Allerbeste Baumhaus</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="38725">
+        <name primary="true">Allerheim 1645</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="7229">
+        <name primary="true">Allerley Spielerey</name>
+        <yearpublished>1994</yearpublished>
+    </boardgame>
+    <boardgame objectid="36509">
+        <name primary="true">Alles auf Angriff</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="34547">
+        <name primary="true">Alles Banane!</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="172258">
+        <name primary="true">Alles Banane!</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="11364">
+        <name primary="true">Alles dreht sich um die Wilde Wiese</name>
+        <yearpublished>1994</yearpublished>
+    </boardgame>
+    <boardgame objectid="617">
+        <name primary="true">Alles Futsch</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="556">
+        <name >Alles für die Katz</name>
+        <yearpublished>2000</yearpublished>
+    </boardgame>
+    <boardgame objectid="14273">
+        <name primary="true">Alles für die Katz?</name>
+        <yearpublished>1994</yearpublished>
+    </boardgame>
+    <boardgame objectid="20065">
+        <name >Alles für die Katz?</name>
+        <yearpublished>1973</yearpublished>
+    </boardgame>
+    <boardgame objectid="11670">
+        <name >Alles Glück mit Glücksklee</name>
+        <yearpublished>1861</yearpublished>
+    </boardgame>
+    <boardgame objectid="3141">
+        <name >Alles im Eimer</name>
+        <yearpublished>2002</yearpublished>
+    </boardgame>
+    <boardgame objectid="16428">
+        <name >Alles im Eimer</name>
+        <yearpublished>1991</yearpublished>
+    </boardgame>
+    <boardgame objectid="159209">
+        <name >Alles im Eimer</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="3508">
+        <name >Alles Im Griff</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="11869">
+        <name primary="true">Alles in Ordnung</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="1388">
+        <name primary="true">Alles klar?</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="10799">
+        <name >Alles Kocht</name>
+        <yearpublished>1874</yearpublished>
+    </boardgame>
+    <boardgame objectid="22885">
+        <name primary="true">Alles Käse</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="136415">
+        <name primary="true">Alles Käse!</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="195320">
+        <name primary="true">Alles lacht!</name>
+    </boardgame>
+    <boardgame objectid="30745">
+        <name primary="true">Alles meins!</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="38936">
+        <name primary="true">Alles Müller</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="1389">
+        <name primary="true">Alles oder Nichts</name>
+        <yearpublished>1988</yearpublished>
+    </boardgame>
+    <boardgame objectid="12091">
+        <name primary="true">Alles oder Nichts</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="19420">
+        <name >Alles oder Nichts</name>
+        <yearpublished>1955</yearpublished>
+    </boardgame>
+    <boardgame objectid="24771">
+        <name >Alles of Niets</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="87466">
+        <name primary="true">Alles Paletti?!</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="20204">
+        <name >Alles staat ondersteboven</name>
+        <yearpublished>1973</yearpublished>
+    </boardgame>
+    <boardgame objectid="32405">
+        <name primary="true">Alles Tomate!</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="126909">
+        <name primary="true">Alles verdreht</name>
+    </boardgame>
+    <boardgame objectid="137946">
+        <name primary="true">Alles Zauberei</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="110004">
+        <name primary="true">Alles, alles über Deutschland</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="24614">
+        <name primary="true">Alley Cat</name>
+    </boardgame>
+    <boardgame objectid="16440">
+        <name primary="true">The Alley Cats Game</name>
+        <yearpublished>1976</yearpublished>
+    </boardgame>
+    <boardgame objectid="11729">
+        <name primary="true">Alley Oop</name>
+        <yearpublished>1937</yearpublished>
+    </boardgame>
+    <boardgame objectid="120304">
+        <name primary="true">Alley Oop Jungle Game</name>
+        <yearpublished>1936</yearpublished>
+    </boardgame>
+    <boardgame objectid="145587">
+        <name primary="true">Alley Thieves</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="165782">
+        <name primary="true">Alley Thieves: Guild Expansion</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="65038">
+        <name primary="true">Alley Up</name>
+        <yearpublished>1952</yearpublished>
+    </boardgame>
+    <boardgame objectid="12553">
+        <name primary="true">Alley-Oop</name>
+    </boardgame>
+    <boardgame objectid="8681">
+        <name primary="true">Alley-up</name>
+        <yearpublished>1971</yearpublished>
+    </boardgame>
+    <boardgame objectid="68157">
+        <name >Allez les castors!</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="2767">
+        <name >Allez les Escargots</name>
+        <yearpublished>1985</yearpublished>
+    </boardgame>
+    <boardgame objectid="72091">
+        <name primary="true">Allez Saute!</name>
+        <yearpublished>1978</yearpublished>
+    </boardgame>
+    <boardgame objectid="21833">
+        <name >Allez, on rentre à la maison!</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="24658">
+        <name >Allez, petits poissons!</name>
+        <yearpublished>2000</yearpublished>
+    </boardgame>
+    <boardgame objectid="105055">
+        <name primary="true">Allgemein-Wissen für Kinder</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="7688">
+        <name >Das Allgäu Memo</name>
+        <yearpublished>1959</yearpublished>
+    </boardgame>
+    <boardgame objectid="127748">
+        <name primary="true">Alliances</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="160585">
+        <name primary="true">Alliances: Means of Power Expansion</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="31106">
+        <name primary="true">Allianz</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="175603">
+        <name primary="true">Die Allianz der Unterwelt</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="30337">
+        <name primary="true">Allie Patriot Game</name>
+        <yearpublished>1917</yearpublished>
+    </boardgame>
+    <boardgame objectid="182172">
+        <name primary="true">Allies: Realm of Wonder</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="86568">
+        <name primary="true">Alligator Dice Game</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="29509">
+        <name primary="true">Alligator Game</name>
+        <yearpublished>1980</yearpublished>
+    </boardgame>
+    <boardgame objectid="202073">
+        <name primary="true">Alligators, Dice &amp; Doors</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="1116">
+        <name >Allir edrú</name>
+        <yearpublished>1930</yearpublished>
+    </boardgame>
+    <boardgame objectid="17138">
+        <name primary="true">Allo Allo</name>
+        <yearpublished>1989</yearpublished>
+    </boardgame>
+    <boardgame objectid="17719">
+        <name >Allo! Police?</name>
+        <yearpublished>1988</yearpublished>
+    </boardgame>
+    <boardgame objectid="38432">
+        <name primary="true">Allo... Docteur?</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="130529">
+        <name primary="true">Allo... la France: Le Grand Jeu du Tėlėphone</name>
+        <yearpublished>1986</yearpublished>
+    </boardgame>
+    <boardgame objectid="67950">
+        <name >Allons Chiper Le Miel</name>
+    </boardgame>
+    <boardgame objectid="25762">
+        <name >Allons faire les courses</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="175312">
+        <name primary="true">Allons zo Zoo</name>
+    </boardgame>
+    <boardgame objectid="19997">
+        <name >Allons, Plume, au soleil!</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="57607">
+        <name primary="true">Allotment Games</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="17260">
+        <name primary="true">Allowance</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="7399">
+        <name primary="true">The Allowance Game</name>
+        <yearpublished>1979</yearpublished>
+    </boardgame>
+    <boardgame objectid="27843">
+        <name primary="true">ALLSAFE: The Food Hygiene Board Game</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="238077">
+        <name primary="true">Alltagswahn Autobahn</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="39373">
+        <name >Ally Sloper</name>
+        <yearpublished>1890</yearpublished>
+    </boardgame>
+    <boardgame objectid="56539">
+        <name >Allô docteur</name>
+        <yearpublished>1985</yearpublished>
+    </boardgame>
+    <boardgame objectid="28433">
+        <name >Allô, j  épelle</name>
+        <yearpublished>1961</yearpublished>
+    </boardgame>
+    <boardgame objectid="32150">
+        <name primary="true">Ambush Alley</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="37890">
+        <name primary="true">Ambush Alley: Art of War</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="35461">
+        <name primary="true">Ambush Alley: Day of the Rangers</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="42722">
+        <name primary="true">Ambush Alley: Indian Country</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="39243">
+        <name primary="true">Ambush Alley: Lawyers, Guns &amp; Money</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="33972">
+        <name primary="true">Ambush Alley: Motor Pool</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="38398">
+        <name primary="true">Ambush Alley: Operation – Darkstar</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="37355">
+        <name primary="true">Ambush Alley: The Three Block War</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="38864">
+        <name primary="true">Ambush Alley: Under the Black Flag</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="22981">
+        <name primary="true">American Idol All-Star Challenge DVD Game</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="153137">
+        <name primary="true">Among the Stars: Expanding the Alliance</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="72572">
+        <name primary="true">...And One for All!</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="154060">
+        <name primary="true">...And One for All! Supplement 1: Additional Rules Variants &amp; Options</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="160683">
+        <name primary="true">Android: Netrunner – All That Remains</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="82168">
+        <name >Angriff der Aliens aus dem All</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="40483">
+        <name >Anima: Más Allá del Bien y del Mal</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="62321">
+        <name primary="true">Antakarana: El juego del más allá</name>
+    </boardgame>
+    <boardgame objectid="218495">
+        <name primary="true">Antidote: Lab Alliance</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="5300">
+        <name primary="true">APBA Major League Baseball: All Star Edition</name>
+        <yearpublished>2000</yearpublished>
+    </boardgame>
+    <boardgame objectid="236348">
+        <name primary="true">Approaching Dawn: The Witching Hour – All the Small Things Promo Card</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="156089">
+        <name >Arcadia Quest: Más allá de la tumba</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="106219">
+        <name primary="true">Arkham Horror: Oliver Grayson (Ally)</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="24046">
+        <name primary="true">The Armies of Tekumel, Volume II: Yan Kor and Allies</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="2764">
+        <name primary="true">Ein Arsch kommt selten allein</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="227645">
+        <name primary="true">Ascension: Alliances</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="183644">
+        <name primary="true">Ascension: Cetra, Benefactor of All Promo</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="49442">
+        <name >Assalto alla Frutta</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="114819">
+        <name primary="true">Assalto alla Jac Bank</name>
+        <yearpublished>1972</yearpublished>
+    </boardgame>
+    <boardgame objectid="134811">
+        <name primary="true">Assedio alla Rocca</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="41853">
+        <name primary="true">Asterix: Against All Odds</name>
+        <yearpublished>1992</yearpublished>
+    </boardgame>
+    <boardgame objectid="97728">
+        <name primary="true">At All Costs!</name>
+    </boardgame>
+    <boardgame objectid="33149">
+        <name primary="true">At All Hazards: The Cold Harbor Campaign</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="184009">
+        <name primary="true">ATS Across the Aller: Northwest Europe 1945</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="184979">
+        <name primary="true">ATS Core Module: All American I – Capture of the La Fiere Bridge 1944</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="184982">
+        <name primary="true">ATS Core Module: All American II – Stand at Amfreville 1944</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="80737">
+        <name primary="true">ATS: D-Day Rangers / Against All Odds Gamers Guide</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="6681">
+        <name >Attenti all  avvoltoio</name>
+        <yearpublished>1990</yearpublished>
+    </boardgame>
+    <boardgame objectid="146606">
+        <name >Attenti alla volpe!</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="155932">
+        <name primary="true">Auf allen Wegen zum neuentdeckten Nordpol</name>
+        <yearpublished>1909</yearpublished>
+    </boardgame>
+    <boardgame objectid="133425">
+        <name >Aus aller Welt</name>
+    </boardgame>
+    <boardgame objectid="114546">
+        <name primary="true">Autofahrt für alle</name>
+    </boardgame>
+    <boardgame objectid="229125">
+        <name primary="true">Axes and Allies</name>
+    </boardgame>
+    <boardgame objectid="98">
+        <name primary="true">Axis &amp; Allies</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="10093">
+        <name primary="true">Axis &amp; Allies</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="123185">
+        <name primary="true">Axis &amp; Allies 1941</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="121657">
+        <name primary="true">Axis &amp; Allies Air Force Miniatures: Angels 20</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="138589">
+        <name primary="true">Axis &amp; Allies Air Force Miniatures: Bandits High</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="35052">
+        <name primary="true">Axis &amp; Allies Anniversary Edition</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="22909">
+        <name primary="true">Axis &amp; Allies Enhanced Realism Rules</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="61692">
+        <name primary="true">Axis &amp; Allies Europe 1940</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="17970">
+        <name primary="true">Axis &amp; Allies Miniatures</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="33291">
+        <name primary="true">Axis &amp; Allies Miniatures Expanded Rules</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="39979">
+        <name primary="true">Axis &amp; Allies Miniatures: Eastern Front 1941-1945 Map Guide</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="46863">
+        <name primary="true">Axis &amp; Allies Miniatures: North Africa 1940-1943 Map Guide</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="25794">
+        <name primary="true">Axis &amp; Allies Naval Miniatures: War at Sea</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="88428">
+        <name primary="true">Axis &amp; Allies Naval Miniatures: War at Sea – Fleet Command</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="55829">
+        <name primary="true">Axis &amp; Allies Pacific 1940</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="70845">
+        <name primary="true">Axis &amp; Allies War at Sea: Condition Zebra</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="41176">
+        <name primary="true">Axis &amp; Allies War at Sea: Flank Speed</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="113826">
+        <name primary="true">Axis &amp; Allies War at Sea: Surface Action</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="21850">
+        <name primary="true">Axis &amp; Allies:  A &amp; A Accessories</name>
+        <yearpublished>1995</yearpublished>
+    </boardgame>
+    <boardgame objectid="29259">
+        <name primary="true">Axis &amp; Allies:  Guadalcanal</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="41863">
+        <name primary="true">Axis &amp; Allies: 1942</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="22457">
+        <name primary="true">Axis &amp; Allies: Battle of the Bulge</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="10081">
+        <name primary="true">Axis &amp; Allies: D-Day</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="520">
+        <name primary="true">Axis &amp; Allies: Europe</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="20457">
+        <name >Axis &amp; Allies: Italy</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="41960">
+        <name primary="true">Axis &amp; Allies: Legacy 3-Pack  42 &amp;  44</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="1262">
+        <name primary="true">Axis &amp; Allies: Pacific</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="62796">
+        <name primary="true">Axis &amp; Allies: Total War</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="35198">
+        <name primary="true">Axis &amp; Allies: War at Sea Task Force</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="133956">
+        <name primary="true">Axis &amp; Allies: WWI 1914</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="27762">
+        <name primary="true">Axles and Alloys</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="104114">
+        <name primary="true">Babylon 5 Wars: Atlas of Earth Alliance Wars</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="24772">
+        <name primary="true">Back Alley</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="165999">
+        <name >Bang! Tutti alla corsa dei ricci</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="148765">
+        <name >Baraconda alla fattoria</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="27797">
+        <name primary="true">Bare It All</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="2251">
+        <name >Baseball All-stars by Strat-o-matic</name>
+        <yearpublished>1962</yearpublished>
+    </boardgame>
+    <boardgame objectid="2687">
+        <name primary="true">Baseball Card All Star Game</name>
+        <yearpublished>1987</yearpublished>
+    </boardgame>
+    <boardgame objectid="228969">
+        <name primary="true">Baseball Classics All-Time Greats Splits Edition</name>
+        <yearpublished>1987</yearpublished>
+    </boardgame>
+    <boardgame objectid="140453">
+        <name primary="true">The Battle of Red Cliffs: Allegiance Expansion</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="92797">
+        <name primary="true">BattleTech Field Manual: Lyran Alliance</name>
+        <yearpublished>2000</yearpublished>
+    </boardgame>
+    <boardgame objectid="30020">
+        <name primary="true">La Belle Alliance</name>
+        <yearpublished>1976</yearpublished>
+    </boardgame>
+    <boardgame objectid="70809">
+        <name primary="true">La Belle Alliance</name>
+    </boardgame>
+    <boardgame objectid="179053">
+        <name primary="true">La Belle Alliance</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="231422">
+        <name primary="true">Belle Alliance</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="7289">
+        <name >Bicycle Tour: All Over the Place</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="145918">
+        <name primary="true">Blind Alley: The Game of Mazes</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="129721">
+        <name >Blood Bowl: Team Manager – Fino Alla Morte</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="19742">
+        <name primary="true">Blue Moon: Emissaries &amp; Inquisitors – Allies</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="132205">
+        <name primary="true">BN1: A Board Game All About Brighton</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="145420">
+        <name primary="true">Bolt Action: Armies of France and the Allies</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="40247">
+        <name >BrainBox: All Around the World Educational Card Game</name>
+    </boardgame>
+    <boardgame objectid="97392">
+        <name primary="true">Bratz: All Out Card Game</name>
+    </boardgame>
+    <boardgame objectid="156681">
+        <name primary="true">Buntes Allerlei</name>
+        <yearpublished>1995</yearpublished>
+    </boardgame>
+    <boardgame objectid="9830">
+        <name >Caccia alle mosche</name>
+        <yearpublished>1985</yearpublished>
+    </boardgame>
+    <boardgame objectid="112052">
+        <name >Caccia alle tracce</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="18768">
+        <name primary="true">Cadaco All-Star Hockey</name>
+        <yearpublished>1969</yearpublished>
+    </boardgame>
+    <boardgame objectid="16017">
+        <name primary="true">Call  em All!</name>
+        <yearpublished>2002</yearpublished>
+    </boardgame>
+    <boardgame objectid="11325">
+        <name primary="true">Calling All Care Bears</name>
+        <yearpublished>2002</yearpublished>
+    </boardgame>
+    <boardgame objectid="8733">
+        <name primary="true">Calling All Cars</name>
+        <yearpublished>1938</yearpublished>
+    </boardgame>
+    <boardgame objectid="11655">
+        <name primary="true">Capture All Monsters</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="163370">
+        <name >Carcassonne: Corsa all oro</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="130882">
+        <name >CardLine: Állatok</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="38386">
+        <name primary="true">A Castle for All Seasons</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="39179">
+        <name primary="true">A Castle for All Seasons: Winter Cards</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="10170">
+        <name primary="true">Central Powers, Axis &amp; Allies Variant</name>
+        <yearpublished>1995</yearpublished>
+    </boardgame>
+    <boardgame objectid="5629">
+        <name primary="true">Charlie Brown s All Stars</name>
+        <yearpublished>1970</yearpublished>
+    </boardgame>
+    <boardgame objectid="34380">
+        <name >Charly allo zoo</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="29310">
+        <name primary="true">Chinggis Khan: almidras Allah (the flail of God)</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="142097">
+        <name primary="true">Ciber: IT s all in the game</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="42937">
+        <name primary="true">Coaches All-Star Football</name>
+        <yearpublished>1970</yearpublished>
+    </boardgame>
+    <boardgame objectid="122236">
+        <name primary="true">Conflict of Alliances: Warring States</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="230048">
+        <name primary="true">The Contender: &quot;All I Do Is Win&quot; Victory Speech Mini Expansion</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="114276">
+        <name primary="true">Cosmic Encounter: Cosmic Alliance</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="16892">
+        <name primary="true">Counter All Terrorists!</name>
+        <yearpublished>1986</yearpublished>
+    </boardgame>
+    <boardgame objectid="54463">
+        <name primary="true">Crazy Alley</name>
+        <yearpublished>1940</yearpublished>
+    </boardgame>
+    <boardgame objectid="4544">
+        <name primary="true">Crusade: Lawrence Welk s All-Star ACS Kit</name>
+        <yearpublished>1967</yearpublished>
+    </boardgame>
+    <boardgame objectid="154959">
+        <name primary="true">Damier géographique: les alliés</name>
+        <yearpublished>1916</yearpublished>
+    </boardgame>
+    <boardgame objectid="227748">
+        <name primary="true">Deception: Undercover Allies</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="6040">
+        <name primary="true">Desert Storm: The Mother of All Battles</name>
+        <yearpublished>1991</yearpublished>
+    </boardgame>
+    <boardgame objectid="162282">
+        <name primary="true">Destroy All Monsters</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="29373">
+        <name primary="true">Devil Takes All!: The Battle of Opequon Creek, 1864</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="25424">
+        <name primary="true">Dice Alley</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="190831">
+        <name primary="true">Dice City: All That Glitters</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="93505">
+        <name primary="true">Diese Gärten, diese Alleen</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="198693">
+        <name primary="true">Dino-Zug Alle einsteigen!</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="80256">
+        <name primary="true">Dinosaur Train All Aboard Game</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="215126">
+        <name primary="true">Don t fall in the Mead Hall: Allies and Drunk Guys</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="3491">
+        <name primary="true">Dragon Ball: Alla ricerca delle Sette Sfere</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="32099">
+        <name primary="true">Dragon War: Dragon Allies</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="72847">
+        <name primary="true">The Dream to End All Dreams: World Cup Soccer</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="148115">
+        <name primary="true">Dubious Alliance Fantasy Card Trading Game</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="209660">
+        <name primary="true">Dungeon Alliance</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="143061">
+        <name primary="true">Dungeon Petz: Dark Alleys</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="146407">
+        <name primary="true">Dust Tactics: Allied Fortification – Field Phaser Bunker / Strongpoint</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="160961">
+        <name primary="true">Dust Tactics: Allied Taskforce Joe Starter Set</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="170872">
+        <name primary="true">Dust Tactics: Allied USMC Taskforce</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="170946">
+        <name primary="true">Dust Tactics: Allies 2014 Forces Deck</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="133706">
+        <name primary="true">Dust Tactics: Allies Heavy Support Walker – &quot;Long Tom II / Mobile HQ / Skysweeper&quot;</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="110636">
+        <name primary="true">Dust Tactics: Allies Hero Pack – &quot;Action Jackson / The Priest / Johnny One-Eye&quot;</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="137186">
+        <name primary="true">Dust Tactics: Allies P-48 Pelican – &quot;Bellowing Bertie / Diving Dotty&quot;</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="22612">
+        <name primary="true">Eastern Front (unofficial expansion for Axis &amp; Allies: Europe)</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="173894">
+        <name primary="true">Eldorado: La grande corsa all oro</name>
+        <yearpublished>1980</yearpublished>
+    </boardgame>
+    <boardgame objectid="235926">
+        <name primary="true">Empires &amp; Alliances</name>
+        <yearpublished>2018</yearpublished>
+    </boardgame>
+    <boardgame objectid="9536">
+        <name primary="true">Enemy on the Horizon: Axis &amp; Allies Expansion</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="181570">
+        <name primary="true">Ente gut, alles gut</name>
+    </boardgame>
+    <boardgame objectid="20582">
+        <name primary="true">ESPN All Sports Trivia Challenge</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="4711">
+        <name primary="true">An Evening of Murder: Winner Take All</name>
+        <yearpublished>1994</yearpublished>
+    </boardgame>
+    <boardgame objectid="121476">
+        <name primary="true">Fahrt ins All</name>
+        <yearpublished>1969</yearpublished>
+    </boardgame>
+    <boardgame objectid="5466">
+        <name primary="true">Fatal Alliances</name>
+        <yearpublished>1992</yearpublished>
+    </boardgame>
+    <boardgame objectid="7735">
+        <name primary="true">Fatal Alliances II</name>
+        <yearpublished>1994</yearpublished>
+    </boardgame>
+    <boardgame objectid="62291">
+        <name primary="true">Fatal Alliances: The Great War</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="6811">
+        <name primary="true">Finger-Flick Sports: All-American Edition</name>
+        <yearpublished>1994</yearpublished>
+    </boardgame>
+    <boardgame objectid="232245">
+        <name primary="true">Firefly Fluxx: Alliance Promo Card</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="44489">
+        <name >Firefly Fluxx: Alliance Treasure Promo Card</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="192394">
+        <name primary="true">Firestorm Taskforce Starter Set: Terran Alliance vs. Dindrenzi Federation</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="206941">
+        <name >First Class: All Aboard the Orient Express!</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="43434">
+        <name primary="true">Flags of All Nations</name>
+        <yearpublished>1903</yearpublished>
+    </boardgame>
+    <boardgame objectid="141820">
+        <name primary="true">Flames of War: Market Garden – The Allied Invasion of Holland, September-November 1944</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="187702">
+        <name primary="true">Flames of War: Overlord – The Allied Invasion of France</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="130230">
+        <name primary="true">Flames of War: Red Bear – Allied Forces on the Eastern Front, January 1944-February 1945</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="159903">
+        <name primary="true">Flug ins All</name>
+    </boardgame>
+    <boardgame objectid="35279">
+        <name primary="true">Flush!  The All-American Tax Game</name>
+        <yearpublished>1994</yearpublished>
+    </boardgame>
+    <boardgame objectid="30112">
+        <name primary="true">En for alle, alle for en</name>
+        <yearpublished>1992</yearpublished>
+    </boardgame>
+    <boardgame objectid="143468">
+        <name primary="true">For the Crown Variant: All the King s Men</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="4069">
+        <name >Forget it: Allt eller inget!</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="5656">
+        <name primary="true">France 1944: The Allied Crusade in Europe</name>
+        <yearpublished>1986</yearpublished>
+    </boardgame>
+    <boardgame objectid="31391">
+        <name primary="true">Free for All</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="39368">
+        <name primary="true">Fußball für alle!!!</name>
+        <yearpublished>1986</yearpublished>
+    </boardgame>
+    <boardgame objectid="218983">
+        <name primary="true">A Game of Thrones: The Card Game (Second Edition) – All Men Are Fools</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="31029">
+        <name primary="true">Games To Play: Board and table games for all the family</name>
+        <yearpublished>1988</yearpublished>
+    </boardgame>
+    <boardgame objectid="14783">
+        <name primary="true">Gasoline Alley Card Game</name>
+        <yearpublished>1927</yearpublished>
+    </boardgame>
+    <boardgame objectid="57783">
+        <name >The Gaston Game: No Aphids Allowed!</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="54687">
+        <name primary="true">Gear Krieg Allies Sourcebook</name>
+        <yearpublished>2002</yearpublished>
+    </boardgame>
+    <boardgame objectid="15433">
+        <name primary="true">Goldrake all attacco</name>
+        <yearpublished>1978</yearpublished>
+    </boardgame>
+    <boardgame objectid="13317">
+        <name primary="true">Golf Fore All</name>
+        <yearpublished>1985</yearpublished>
+    </boardgame>
+    <boardgame objectid="2472">
+        <name >Grabräuber aus dem All</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="138944">
+        <name primary="true">The Gracie Allen Murder Case</name>
+        <yearpublished>1939</yearpublished>
+    </boardgame>
+    <boardgame objectid="172894">
+        <name primary="true">Great War at Sea: Triple Alliance</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="180224">
+        <name primary="true">Greatest of All Mountains</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="11564">
+        <name primary="true">Green Alligators</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="36428">
+        <name primary="true">Green Alligators: Rings &amp; Things</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="36427">
+        <name primary="true">Green Alligators: Zoo &amp; Farm Animals</name>
+    </boardgame>
+    <boardgame objectid="104077">
+        <name primary="true">GROPOS: Earth Alliance</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="147567">
+        <name primary="true">Der Grüffelo: Alles wird gut!</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="196305">
+        <name primary="true">Guildhall Fantasy: Alliance</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="3910">
+        <name primary="true">Harry Potter: Diagon Alley Board Game</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="215820">
+        <name primary="true">Harry Potter: Hogwarts Battle – Ally: Seamus Finnigan</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="216011">
+        <name primary="true">Harry Potter: Hogwarts Battle – Ally: The Dursleys</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="233769">
+        <name primary="true">Harry Potter: Hogwarts Battle – Ally: Xenophilius Lovegood</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="161316">
+        <name primary="true">Heart of Crown: Six City Alliance</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="42807">
+        <name primary="true">Herman Hickman s All-American Action Football</name>
+        <yearpublished>1955</yearpublished>
+    </boardgame>
+    <boardgame objectid="30976">
+        <name primary="true">Heroscape Expansion Set: Aquilla s Alliance </name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="18465">
+        <name primary="true">Die Herren aller Länder</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="225465">
+        <name primary="true">History Maker Golf: All-Time Great Golfers Card Set</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="72236">
+        <name primary="true">History of War: Allies Expansion Set</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="8134">
+        <name >History of War: Alliierte Starter Deck</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="19362">
+        <name primary="true">Honor and Infamy: Commanders (Axis and Allies Variant)</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="7550">
+        <name primary="true">How to Host a Murder: All My Children</name>
+        <yearpublished>1991</yearpublished>
+    </boardgame>
+    <boardgame objectid="66244">
+        <name >Hva alle burde vite om DEN FORUNDERLIGE JORDEN</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="66241">
+        <name >Hva alle burde vite om REISING I EUROPA</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="66243">
+        <name >Hva alle burde vite om STORE OPPFINNELSER</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="66240">
+        <name >Hva alle burde vite om TRENDER &amp; LIVSSTILER</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="155698">
+        <name primary="true">Hvem i all verden?</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="136086">
+        <name >Hvor i all verden (Katmandu, hvor er du?)</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="35614">
+        <name >I Counted Them All Out (formerly)</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="14003">
+        <name >Ian Allan s Trains Card Game</name>
+        <yearpublished>1962</yearpublished>
+    </boardgame>
+    <boardgame objectid="224816">
+        <name primary="true">Impulse: All Your Base</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="168791">
+        <name primary="true">Islamic Jihad: &quot;The Mother of All Surrenders&quot;</name>
+        <yearpublished>1991</yearpublished>
+    </boardgame>
+    <boardgame objectid="151155">
+        <name primary="true">It s a Dice Game, After All!</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="38202">
+        <name primary="true">It s All Chinese to Me!</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="119989">
+        <name primary="true">It s all on the Pictures</name>
+        <yearpublished>1935</yearpublished>
+    </boardgame>
+    <boardgame objectid="98558">
+        <name primary="true">Jack of all Trades</name>
+        <yearpublished>1932</yearpublished>
+    </boardgame>
+    <boardgame objectid="231553">
+        <name primary="true">Jagged Alliance: The Board Game</name>
+    </boardgame>
+    <boardgame objectid="96061">
+        <name primary="true">Jours de Gloire Campagne IV: Allemagne 1813, de Lützen à Leipzig</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="65249">
+        <name >Juego de Tronos: El Juego de Cartas – Más Allá del Muro</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="130907">
+        <name >Jungle Brunch: Állati Zaba</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="39103">
+        <name >Jungle Speed: All In!</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="28319">
+        <name primary="true">Junior Table Top Bowling Alley Game</name>
+        <yearpublished>1955</yearpublished>
+    </boardgame>
+    <boardgame objectid="7536">
+        <name >Der Kampf ums All</name>
+        <yearpublished>1975</yearpublished>
+    </boardgame>
+    <boardgame objectid="35676">
+        <name >Ki állította át az órát?</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="54736">
+        <name primary="true">The Kids are All Right</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="111229">
+        <name primary="true">King-Pin Bowling Alley</name>
+        <yearpublished>1960</yearpublished>
+    </boardgame>
+    <boardgame objectid="226222">
+        <name primary="true">Kingdom Death: Monster – Allison The Twilight Knight Promo Cards</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="164135">
+        <name primary="true">Kingdom Death: Monster – Allison the Twilight Knight Promo Miniature</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="85447">
+        <name primary="true">Kingsburg: Shifting Alliances</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="122645">
+        <name primary="true">Das kleine Allgemeinwissensquiz</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="116644">
+        <name primary="true">Das kleine Allgäuquiz</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="56951">
+        <name primary="true">Kleiner Rabe findet alles</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="151451">
+        <name primary="true">Know It All</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="181686">
+        <name >Know-It-All Movie Critics</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="16957">
+        <name >Krigs-spelet eller Åskådligt föreställande af manövrer och strider med större eller mindre corpser af alla vapen</name>
+        <yearpublished>1824</yearpublished>
+    </boardgame>
+    <boardgame objectid="101847">
+        <name primary="true">Kundschafter im All</name>
+        <yearpublished>1987</yearpublished>
+    </boardgame>
+    <boardgame objectid="188535">
+        <name primary="true">Kyoui no heya: Geijutsu ni kakusareta allegory</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="76638">
+        <name >L Appel de Cthulhu JCE: Alliance Tacite</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="209220">
+        <name >Lady Richmond: un eredità all asta</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="86918">
+        <name primary="true">Last Night on Earth  All Hallows Eve II: The Ritual  Scenario</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="56775">
+        <name primary="true">Last Night on Earth  All Hallows Eve  Scenario</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="209504">
+        <name primary="true">Let s throw away it all</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="10158">
+        <name primary="true">Lilly s 3 For All</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="33773">
+        <name >Little Storm: Leer alles over aankleden</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="33775">
+        <name >Little Storm: Leer alles over bedtijd</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="33774">
+        <name >Little Storm: Leer alles over buiten spelen</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="33772">
+        <name >Little Storm: Leer alles over de badkamer</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="33771">
+        <name >Little Storm: Leer alles over het vullen van je broodtrommel</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="225737">
+        <name primary="true">LittleStorm in all Kinds of Weather</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="229171">
+        <name primary="true">Lobotomy: Allisson and Cameron the Cat</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="33714">
+        <name primary="true">Lose It All</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="38671">
+        <name primary="true">Managing My Allowance</name>
+    </boardgame>
+    <boardgame objectid="210674">
+        <name >Las Mansiones de la Locura: Segunda Edición – Más Allá del Umbral</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="200167">
+        <name primary="true">Marvel Dice Masters: Spider-Allies Promo Cards</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="22870">
+        <name primary="true">Max s Advanced Rules for Axis &amp; Allies</name>
+        <yearpublished>1989</yearpublished>
+    </boardgame>
+    <boardgame objectid="41424">
+        <name primary="true">Max s Advanced Rules for Axis and Allies: Europe</name>
+        <yearpublished>2000</yearpublished>
+    </boardgame>
+    <boardgame objectid="60399">
+        <name primary="true">Mazinga Z alla riscossa</name>
+        <yearpublished>1979</yearpublished>
+    </boardgame>
+    <boardgame objectid="47359">
+        <name primary="true">Medieval Alliance</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="39221">
+        <name primary="true">Mel Allen s Baseball Game</name>
+        <yearpublished>1959</yearpublished>
+    </boardgame>
+    <boardgame objectid="111235">
+        <name primary="true">Mel Allen s Living Sound Baseball</name>
+        <yearpublished>1958</yearpublished>
+    </boardgame>
+    <boardgame objectid="29061">
+        <name primary="true">Mig Alley</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="133737">
+        <name primary="true">Mig Alley</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="218566">
+        <name primary="true">MIG ALLEY</name>
+        <yearpublished>1995</yearpublished>
+    </boardgame>
+    <boardgame objectid="162992">
+        <name primary="true">Mig Alley Ace</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="187199">
+        <name primary="true">MiG Alley: Air War Over Korea 1951</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="206516">
+        <name primary="true">Mine All Mines</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="164645">
+        <name primary="true">Mine, All Mine!</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="30311">
+        <name primary="true">Mitt aller første kryssordspill</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="160802">
+        <name primary="true">Monopoly: All Blacks Charity Edition</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="130088">
+        <name primary="true">Monopoly: Allgäu</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="54804">
+        <name primary="true">Monopoly: Here and Now All-Ireland Edition</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="187493">
+        <name primary="true">Monster Allegiance</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="39239">
+        <name primary="true">Monster Allergy Trading Card Game</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="124294">
+        <name primary="true">Monster Allergy YO! game</name>
+    </boardgame>
+    <boardgame objectid="24671">
+        <name primary="true">Ein Mops kommt selten allein!</name>
+        <yearpublished>2000</yearpublished>
+    </boardgame>
+    <boardgame objectid="109844">
+        <name >Motor Racing:  an Exciting Race for all Boys &amp; Girls</name>
+        <yearpublished>1950</yearpublished>
+    </boardgame>
+    <boardgame objectid="27206">
+        <name primary="true">Mr. Know It All</name>
+        <yearpublished>1967</yearpublished>
+    </boardgame>
+    <boardgame objectid="67863">
+        <name primary="true">My Enemy, My Ally</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="371">
+        <name >Mystery Rummy: Fall 2 – Edgar Allan Poe – Doppelmord in der Rue Morgue</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="234830">
+        <name primary="true">Naturally Disastrous: The Mother of All Expansions</name>
+        <yearpublished>2018</yearpublished>
+    </boardgame>
+    <boardgame objectid="129934">
+        <name primary="true">Naturwissenschaften im Alltag</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="76541">
+        <name primary="true">NBA All Star: Officially Licensed Board Game</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="10169">
+        <name primary="true">New World Order, Axis &amp; Allies Variant</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="198697">
+        <name primary="true">NHL All About Trivia Card Game</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="21176">
+        <name primary="true">Nickelodeon Clarissa Explains It All Game</name>
+        <yearpublished>1994</yearpublished>
+    </boardgame>
+    <boardgame objectid="206922">
+        <name primary="true">Night Terrors: The Sum of All Fears</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="4596">
+        <name primary="true">Ein Nilpferd kommt selten allein</name>
+        <yearpublished>1993</yearpublished>
+    </boardgame>
+    <boardgame objectid="203087">
+        <name primary="true">Nine Years: The War of the Grand Alliance 1688-1697</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="164448">
+        <name primary="true">Ninja All-Stars</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="219315">
+        <name primary="true">Ninja All-Stars: Arashikage</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="218326">
+        <name primary="true">Ninja All-Stars: Bakusho Mondai</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="201675">
+        <name primary="true">Ninja All-Stars: Benkei</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="216216">
+        <name primary="true">Ninja All-Stars: Clan Ijin</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="216212">
+        <name primary="true">Ninja All-Stars: Clan Ika</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="216217">
+        <name primary="true">Ninja All-Stars: Clan Kitsune</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="216215">
+        <name primary="true">Ninja All-Stars: Clan Tanchyo</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="216213">
+        <name primary="true">Ninja All-Stars: Clan Tora</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="216214">
+        <name primary="true">Ninja All-Stars: Clan Yamazaru</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219330">
+        <name primary="true">Ninja All-Stars: Dark Kitsune</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219325">
+        <name primary="true">Ninja All-Stars: Hanzo</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="201556">
+        <name primary="true">Ninja All-Stars: Howl &amp; Yip</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219332">
+        <name primary="true">Ninja All-Stars: Inu Clan Kaiken</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219336">
+        <name primary="true">Ninja All-Stars: Jorogumo</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="219322">
+        <name primary="true">Ninja All-Stars: Kappa</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219319">
+        <name primary="true">Ninja All-Stars: Karura</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219318">
+        <name primary="true">Ninja All-Stars: Komuso</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219328">
+        <name primary="true">Ninja All-Stars: Mizaru</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="201679">
+        <name primary="true">Ninja All-Stars: Mizuchi</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="201555">
+        <name primary="true">Ninja All-Stars: Mochizuki</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="201676">
+        <name primary="true">Ninja All-Stars: Momotaro</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219324">
+        <name primary="true">Ninja All-Stars: Moon Princess</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219317">
+        <name primary="true">Ninja All-Stars: Musashi</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219331">
+        <name primary="true">Ninja All-Stars: Ondori Clan Kaiken</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219323">
+        <name primary="true">Ninja All-Stars: Onibaba</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="201678">
+        <name primary="true">Ninja All-Stars: Ryu</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219327">
+        <name primary="true">Ninja All-Stars: Shojo</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219335">
+        <name primary="true">Ninja All-Stars: Sun Empire Wandering Samurai</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219333">
+        <name primary="true">Ninja All-Stars: Tengu</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219320">
+        <name primary="true">Ninja All-Stars: Uzumaki</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="201673">
+        <name primary="true">Ninja All-Stars: Yagyu Jubei</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219316">
+        <name primary="true">Ninja All-Stars: Yoboku</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="219321">
+        <name primary="true">Ninja All-Stars: Yokozuna</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="7262">
+        <name >Nintendo All-Star Battle Cards</name>
+        <yearpublished>1968</yearpublished>
+    </boardgame>
+    <boardgame objectid="149639">
+        <name primary="true">Noble Treachery: The Last Alliance</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="30359">
+        <name primary="true">Not at All Trivial</name>
+        <yearpublished>1985</yearpublished>
+    </boardgame>
+    <boardgame objectid="222922">
+        <name primary="true">Nuclear War: Alliance</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="10426">
+        <name >I Numeri Allegri</name>
+        <yearpublished>1975</yearpublished>
+    </boardgame>
+    <boardgame objectid="92999">
+        <name primary="true">NUTS! Stalingrad: Heroes All</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="128877">
+        <name primary="true">Nähdään Kellon Alla</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="23498">
+        <name >Occhio alla banana!</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="5775">
+        <name >Occhio Alla Talpa</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="2322">
+        <name >Ohne Dich ist alles doof</name>
+        <yearpublished>1960</yearpublished>
+    </boardgame>
+    <boardgame objectid="28925">
+        <name primary="true">Operation Fischfang Smashing the Allies at Anzio February 1944</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="191619">
+        <name primary="true">Ophidian 2360: Survival of the Fittest – The Art of War vs. Otherworld Allies</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="212301">
+        <name primary="true">Order of the Gilded Compass: Coveted Artifacts/An Ally Inside expansion</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="208799">
+        <name primary="true">Our America: A Game for All Generations</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="86772">
+        <name >Où allons nous?</name>
+        <yearpublished>1976</yearpublished>
+    </boardgame>
+    <boardgame objectid="55679">
+        <name primary="true">Panzer General: Allied Assault</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="67083">
+        <name primary="true">Panzer General: Allied Assault – Patton</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="67082">
+        <name primary="true">Panzer General: Allied Assault – Rommel</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="142344">
+        <name >Pappagallo All Arrembaggio</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="172937">
+        <name primary="true">Perfect Alliance</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="100737">
+        <name primary="true">Picture Hunt (Commencing Letters; All &quot;D s&quot;)</name>
+    </boardgame>
+    <boardgame objectid="187822">
+        <name primary="true">Pirates Code II: Pirate Alliance and The Curse of the King</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="97152">
+        <name primary="true">Pirati All Arrembaggio!</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="140">
+        <name >Pit: The Greatest of all Party Games</name>
+        <yearpublished>1903</yearpublished>
+    </boardgame>
+    <boardgame objectid="188261">
+        <name primary="true">Pizzeria Allegro</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="57216">
+        <name primary="true">Play by Play All-league Baseball</name>
+        <yearpublished>1982</yearpublished>
+    </boardgame>
+    <boardgame objectid="175616">
+        <name primary="true">Play-Doh: Alle auf Kalle</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="109852">
+        <name primary="true">Pocket Quiz: Allgemeinwissen</name>
+        <yearpublished>2000</yearpublished>
+    </boardgame>
+    <boardgame objectid="109853">
+        <name primary="true">Pocket Quiz: Mehr Allgemeinwissen</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="159053">
+        <name >Porcellini Alla Riscossa!</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="148204">
+        <name primary="true">Pulp Alley</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="24894">
+        <name >Queen s Blade: Alleyne the Fighting Master</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="115673">
+        <name primary="true">Quick-Quiz: Allgemeinwissen</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="129570">
+        <name primary="true">Quirinalopoli. Corsa alla Presidenza</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="119663">
+        <name primary="true">Quiz to go: Allgemeinbildung</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="119665">
+        <name primary="true">Quiz to go: Alltagsfragen</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="119670">
+        <name primary="true">Quiz to go: Irrtümer der Allgemeinbildung</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="6584">
+        <name >Die Rache der Grabräuber aus dem All</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="233290">
+        <name primary="true">The Red Dragon Inn: Allies – Adonis vs the Lich King</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="159683">
+        <name primary="true">The Red Dragon Inn: Allies – Brother Bastian</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="146329">
+        <name primary="true">The Red Dragon Inn: Allies – Cormac the Mighty</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="125053">
+        <name primary="true">The Red Dragon Inn: Allies – Erin the Ever-Changing</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="174922">
+        <name primary="true">The Red Dragon Inn: Allies – Halden the Unhinged</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="196213">
+        <name primary="true">The Red Dragon Inn: Allies – Keet and Nitrel</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="158222">
+        <name primary="true">The Red Dragon Inn: Allies – Ozrik the Adept</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="125472">
+        <name primary="true">The Red Dragon Inn: Allies – Pooky</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="146330">
+        <name primary="true">The Red Dragon Inn: Allies – Witchdoctor Natyli</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="168857">
+        <name primary="true">The Red Dragon Inn: Allies – Wrench</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="173959">
+        <name primary="true">The Red Dragon Inn: Allies – Zariah the Summoner</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="91773">
+        <name primary="true">Resident Evil Deck Building Game: Alliance</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="67301">
+        <name primary="true">Robinsons Reisen zu Wasser und zu Lande, so wie seine Schicksale auf der durch ihn allgemein bekannten wüsten Insel</name>
+        <yearpublished>1830</yearpublished>
+    </boardgame>
+    <boardgame objectid="68336">
+        <name primary="true">The royal game of the gathering of nations: Exhibition of the industry of all nations</name>
+        <yearpublished>1851</yearpublished>
+    </boardgame>
+    <boardgame objectid="60692">
+        <name primary="true">The Royal Geographical Amusement or the Safe and Expeditious Traveller Through all the Parts of Europe by Sea and by Land</name>
+        <yearpublished>1774</yearpublished>
+    </boardgame>
+    <boardgame objectid="68346">
+        <name primary="true">Royal Geographical Amusement or the Safe and Expeditious Traveller Through all the Parts of Europe by Sea and by Land</name>
+        <yearpublished>1823</yearpublished>
+    </boardgame>
+    <boardgame objectid="18626">
+        <name primary="true">Runebound: Artifacts and Allies</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="159797">
+        <name primary="true">Sails of Glory Ship Pack: Alligator 1782 / Le Fortune 1780</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="36591">
+        <name primary="true">Salem s All-American Street Game</name>
+        <yearpublished>1984</yearpublished>
+    </boardgame>
+    <boardgame objectid="190266">
+        <name primary="true">Sans Alliés</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="175023">
+        <name primary="true">Sanzen Sekai: I d kill all the crows in the world to be with you a little longer</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="5635">
+        <name primary="true">Second World War at Sea: Bomb Alley</name>
+        <yearpublished>2002</yearpublished>
+    </boardgame>
+    <boardgame objectid="166679">
+        <name >Il Segno degli Antichi: Alle Porte di Arkham</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="50689">
+        <name primary="true">Sengoku Alliance</name>
+    </boardgame>
+    <boardgame objectid="218443">
+        <name primary="true">Sentinels of the Multiverse: Tormented Ally Infinitor Promo Card</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="206376">
+        <name primary="true">Shadows of Brimstone: Allies of the Old West Ally Expansion</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="149165">
+        <name primary="true">Shadows over the Empire: Fallen Allies</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="177571">
+        <name primary="true">Shinsei Maougun ~ VS the triple kingdom alliance</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="124487">
+        <name primary="true">Siebzehn: The Race of All Races</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="94288">
+        <name >Il Signore degli Anelli: Il Gioco di Carte – Alla Ricerca di Gollum</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="95338">
+        <name >Il Signore degli Anelli: il gioco di carte – Scontro alla Carroccia</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="5129">
+        <name primary="true">The Simpsons: LOSER Takes All!</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="42641">
+        <name >Slouch Hats and Eggshells: The Allied Invasion of Syria &amp; Lebanon – 1941</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="220266">
+        <name primary="true">Smash Up: All Stars</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="26114">
+        <name >I sommozzatori alla ricerca del tesoro</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="85325">
+        <name >Sorban állás</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="32342">
+        <name primary="true">Space Dealer: All-Zeit</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="209364">
+        <name primary="true">Spaghetti: alla Granna</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="4642">
+        <name >Sports Illustrated All-Time All-Star Baseball</name>
+        <yearpublished>1972</yearpublished>
+    </boardgame>
+    <boardgame objectid="1986">
+        <name primary="true">Spy Alley</name>
+        <yearpublished>1992</yearpublished>
+    </boardgame>
+    <boardgame objectid="93823">
+        <name primary="true">Spy Alley Junior</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="146926">
+        <name primary="true">Spy Alley: Dice Game</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="9201">
+        <name >Spy: Ein Spion kommt selten allein</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="127812">
+        <name primary="true">Star Confrontations: Alliance War Host</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="231369">
+        <name primary="true">Star Realms: Command Deck – The Alliance</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="231375">
+        <name primary="true">Star Realms: Stellar Allies Pack</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="52105">
+        <name primary="true">Star Trek All About Trivia</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="197520">
+        <name primary="true">Star Trek: Ascendancy – Ferengi Alliance</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="207938">
+        <name primary="true">Star Trek: Attack Wing – All Stop Resource</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="11229">
+        <name >Star Wars Miniatures: Alliance and Empire</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="197407">
+        <name primary="true">Star Wars: Allianz der Rebellen</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="135222">
+        <name >Star Wars: Il Gioco di Carte – Alla Ricerca di Skywalker</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="226836">
+        <name primary="true">Star Wars: Imperial Assault – Ahsoka Tano Ally Pack</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="205902">
+        <name primary="true">Star Wars: Imperial Assault – Alliance Rangers Ally Pack</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="180621">
+        <name primary="true">Star Wars: Imperial Assault – Alliance Smuggler Ally Pack</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="167886">
+        <name primary="true">Star Wars: Imperial Assault – Chewbacca Ally Pack</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="181690">
+        <name primary="true">Star Wars: Imperial Assault – Echo Base Troopers Ally Pack</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="167889">
+        <name primary="true">Star Wars: Imperial Assault – Han Solo Ally Pack</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="218255">
+        <name primary="true">Star Wars: Imperial Assault – Hera Syndulla and C1-10P Ally Pack</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="194903">
+        <name primary="true">Star Wars: Imperial Assault – Lando Calrissian Ally Pack</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="181689">
+        <name primary="true">Star Wars: Imperial Assault – Leia Organa Ally Pack</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="205905">
+        <name primary="true">Star Wars: Imperial Assault – Luke Skywalker Jedi Knight Ally Pack</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="199909">
+        <name primary="true">Star Wars: Imperial Assault – Obi-Wan Kenobi Ally Pack</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="175212">
+        <name primary="true">Star Wars: Imperial Assault – R2-D2 and C-3PO Ally Pack</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="167888">
+        <name primary="true">Star Wars: Imperial Assault – Rebel Saboteurs Ally Pack</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="167887">
+        <name primary="true">Star Wars: Imperial Assault – Rebel Troopers Ally Pack</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="177086">
+        <name primary="true">Star Wars: Imperial Assault – Wookiee Warriors Ally Pack</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="219925">
+        <name primary="true">Star Wars: The Card Game – Allies of Necessity</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="153900">
+        <name primary="true">Star Wars: The Card Game – It Binds All Things</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="181852">
+        <name primary="true">Star Wars: The Card Game – New Alliances</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="221330">
+        <name primary="true">Steal all the Cake</name>
+    </boardgame>
+    <boardgame objectid="22359">
+        <name primary="true">Steel Wolves: The German Submarine Campaign Against Allied Shipping – Vol 1</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="53688">
+        <name primary="true">Steve Allen s Qubila</name>
+        <yearpublished>1955</yearpublished>
+    </boardgame>
+    <boardgame objectid="107576">
+        <name >Stone Age: alla meta con stile</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="8905">
+        <name primary="true">Strategy: The Navy Game for All The Family</name>
+        <yearpublished>1973</yearpublished>
+    </boardgame>
+    <boardgame objectid="158889">
+        <name primary="true">Summoner Wars: Alliances Master Set</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="24290">
+        <name >Superman Returns: Allarme Kryptonite</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="224662">
+        <name primary="true">Sushi War: All You Can Hit!</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="21512">
+        <name >Take All</name>
+    </boardgame>
+    <boardgame objectid="213972">
+        <name primary="true">Tanto Cuore: Private Maid – Pierra Allegrini</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="35811">
+        <name >Taste it all</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="61702">
+        <name >Taste it all: the Food Pyramid</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="225984">
+        <name primary="true">Tat s All Folks!</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="173147">
+        <name primary="true">Teenage Mutant Ninja Turtles: Calling All Turtles Card Game</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="138746">
+        <name primary="true">Teenage Mutant Ninja Turtles: Clash Alley Strategy Boardgame</name>
+        <yearpublished>2013</yearpublished>
+    </boardgame>
+    <boardgame objectid="29292">
+        <name primary="true">They Think It s All Over</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="229211">
+        <name primary="true">Thief s Market: Narrow Alleyway</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="114417">
+        <name primary="true">Think: Kids – Alles Gemerkt?</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="22529">
+        <name primary="true">Thomas &amp; Friends: All Aboard! Card Game</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="70479">
+        <name primary="true">Thomas and Friends All Aboard Giant Floor Game</name>
+        <yearpublished>2000</yearpublished>
+    </boardgame>
+    <boardgame objectid="25501">
+        <name primary="true">Thomas the Tank Engine s All Aboard Alphabet</name>
+        <yearpublished>1992</yearpublished>
+    </boardgame>
+    <boardgame objectid="4894">
+        <name primary="true">Three For All!</name>
+        <yearpublished>1990</yearpublished>
+    </boardgame>
+    <boardgame objectid="165599">
+        <name primary="true">The Three Pillars: Allies &amp; Adversaries Expansion Set</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="108906">
+        <name primary="true">Thunder Alley</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="195397">
+        <name primary="true">Thunder Alley: Crew Chief Expansion</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="235497">
+        <name primary="true">Thunder Alley: Crew Chief Expansion – The Dice Tower Effect Promo Pack</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="165070">
+        <name primary="true">Thunder Alley: Expansion Tracks</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="231160">
+        <name primary="true">Thunder Alley: Race Day Legends</name>
+        <yearpublished>2018</yearpublished>
+    </boardgame>
+    <boardgame objectid="131306">
+        <name >Thunderstone Advance: Ursprung alles Bösen</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="33261">
+        <name primary="true">Thurn and Taxis: All Roads Lead to Rome</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="37746">
+        <name primary="true">TID för alla-spelet</name>
+    </boardgame>
+    <boardgame objectid="72368">
+        <name >Topini alla ricerca dei colori</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="162852">
+        <name primary="true">Toplshteyner: An All New Dice Game</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="34573">
+        <name primary="true">Tornado Alley</name>
+    </boardgame>
+    <boardgame objectid="33463">
+        <name primary="true">Totally Untested Volume 2 of Max s Advanced Rules for Axis &amp; Allies</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="43533">
+        <name primary="true">A Touch of Evil:  The Allies  Supplement</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="177522">
+        <name primary="true">Travel all over Thailand</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="8806">
+        <name primary="true">Trivial Pursuit: All American Edition</name>
+        <yearpublished>1993</yearpublished>
+    </boardgame>
+    <boardgame objectid="5916">
+        <name primary="true">Trivial Pursuit: All Star Sports Edition</name>
+        <yearpublished>1983</yearpublished>
+    </boardgame>
+    <boardgame objectid="118496">
+        <name primary="true">Trivial Pursuit: Disney for All</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="6233">
+        <name primary="true">Trivial Pursuit: Know-It-All Edition</name>
+        <yearpublished>1998</yearpublished>
+    </boardgame>
+    <boardgame objectid="5810">
+        <name primary="true">Trivial Pursuit: Warner Bros. All Family Edition</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="196619">
+        <name >Il Trono di Spade: il Gioco di Carte (Seconda edizione) – Chiamata alle Armi</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="19674">
+        <name >Tutti allo zoo</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="13827">
+        <name primary="true">UFOs! Fritten aus dem All</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="19220">
+        <name primary="true">Up To My @*! In Alligators</name>
+        <yearpublished>1996</yearpublished>
+    </boardgame>
+    <boardgame objectid="215873">
+        <name primary="true">The Vampire, the Elf &amp; the Cthulhu: Edgar Allan Poe</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="129609">
+        <name >Vasaran Alla</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="186183">
+        <name primary="true">Vice Alley</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="25790">
+        <name >Visita allo zoo</name>
+        <yearpublished>2003</yearpublished>
+    </boardgame>
+    <boardgame objectid="191301">
+        <name primary="true">The Walking Dead: All Out War</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="230489">
+        <name primary="true">The Walking Dead: All Out War – Carol Booster</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="224831">
+        <name primary="true">The Walking Dead: All Out War – Days Gone Bye Expansion</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="237549">
+        <name primary="true">The Walking Dead: All Out War – Equipment Booster</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="234305">
+        <name primary="true">The Walking Dead: All Out War – Glenn Booster</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="230492">
+        <name primary="true">The Walking Dead: All Out War – Lori Booster</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="234302">
+        <name primary="true">The Walking Dead: All Out War – Maggie Booster</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="235343">
+        <name primary="true">The Walking Dead: All Out War – Michonne Booster</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="228450">
+        <name primary="true">The Walking Dead: All Out War – Miles Behind Us Expansion</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="214625">
+        <name primary="true">The Walking Dead: All Out War – Morgan Game Booster</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="234308">
+        <name primary="true">The Walking Dead: All Out War – Negan Booster</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="223864">
+        <name primary="true">The Walking Dead: All Out War – Prelude to Woodbury Solo Starter Set</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="214624">
+        <name primary="true">The Walking Dead: All Out War – Rick on Horse Game Booster</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="230208">
+        <name primary="true">The Walking Dead: All Out War – Shane Booster</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="231377">
+        <name primary="true">The Walking Dead: All Out War – Tyreese Booster</name>
+        <yearpublished>2017</yearpublished>
+    </boardgame>
+    <boardgame objectid="214850">
+        <name primary="true">The Walking Dead: All Out War – Walker Mini and Card</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="25992">
+        <name primary="true">War of the Triple Alliance: Paraguay – 1865-1870</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="4759">
+        <name primary="true">The War to End All Wars: Box Set Edition</name>
+        <yearpublished>2002</yearpublished>
+    </boardgame>
+    <boardgame objectid="17858">
+        <name >The War to end All Wars: Revolution in Russia</name>
+        <yearpublished>2001</yearpublished>
+    </boardgame>
+    <boardgame objectid="22447">
+        <name primary="true">War to End All Wars: The Great War in Africa</name>
+        <yearpublished>2002</yearpublished>
+    </boardgame>
+    <boardgame objectid="133394">
+        <name primary="true">The War to End All Wars: The North American Upgrade Set</name>
+        <yearpublished>2002</yearpublished>
+    </boardgame>
+    <boardgame objectid="21155">
+        <name primary="true">War to End All Wars: World War I Expansion with War of 1812 and Mexican War</name>
+        <yearpublished>1999</yearpublished>
+    </boardgame>
+    <boardgame objectid="10473">
+        <name primary="true">The War to End All Wars: WWI Axis &amp; Allies Variant</name>
+        <yearpublished>1997</yearpublished>
+    </boardgame>
+    <boardgame objectid="95610">
+        <name >Warhammer: Invasion – Das Ende aller Hoffnung</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="5445">
+        <name >Wayne Gretzky s All Star Hockey</name>
+        <yearpublished>1932</yearpublished>
+    </boardgame>
+    <boardgame objectid="163191">
+        <name primary="true">We All Hate Your F#*cking Friend</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="67012">
+        <name primary="true">We All Scream for Ice Cream</name>
+    </boardgame>
+    <boardgame objectid="31016">
+        <name primary="true">We Didn t Playtest This At All</name>
+        <yearpublished>2007</yearpublished>
+    </boardgame>
+    <boardgame objectid="157723">
+        <name primary="true">We Didn t Playtest This at All with Chaos Pack Expansion</name>
+        <yearpublished>2012</yearpublished>
+    </boardgame>
+    <boardgame objectid="80012">
+        <name primary="true">We Didn t Playtest This At All: Blue Deck</name>
+        <yearpublished>2010</yearpublished>
+    </boardgame>
+    <boardgame objectid="37974">
+        <name primary="true">We Didn t Playtest This At All: Chaos Pack</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="63595">
+        <name primary="true">We Didn t Playtest This at All: Dice are Fun</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="147445">
+        <name primary="true">We Didn t Playtest This Pasted-On Theme at All!</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="181344">
+        <name primary="true">We Didn t Playtest This Village at All!</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="19004">
+        <name primary="true">We re Talking Proud: All About Buffalo</name>
+        <yearpublished>1981</yearpublished>
+    </boardgame>
+    <boardgame objectid="72929">
+        <name primary="true">Welt des Allgäus</name>
+        <yearpublished>2009</yearpublished>
+    </boardgame>
+    <boardgame objectid="172095">
+        <name primary="true">Werewolf: All Hallows  Eve Expansion</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="22070">
+        <name primary="true">Who Ate All the Pies?!</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="7574">
+        <name >Wickie: Alle Mann an Bord!</name>
+        <yearpublished>1976</yearpublished>
+    </boardgame>
+    <boardgame objectid="180459">
+        <name >Wikipedia: Das Spiel, bei dem es um alles geht!</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="146543">
+        <name primary="true">Willkommen auf Allofall</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="134721">
+        <name primary="true">The Winner Takes It All</name>
+        <yearpublished>2004</yearpublished>
+    </boardgame>
+    <boardgame objectid="169052">
+        <name primary="true">With All Do Respect: The Party Game With An Adventure</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="184290">
+        <name primary="true">With All Due Respect: The Party Game</name>
+        <yearpublished>2015</yearpublished>
+    </boardgame>
+    <boardgame objectid="3618">
+        <name >The World at War 1939-1945: For use with Axis &amp; Allies</name>
+        <yearpublished>1990</yearpublished>
+    </boardgame>
+    <boardgame objectid="119240">
+        <name primary="true">WW2 All At Sea</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="96240">
+        <name primary="true">Xtreme Global 1940 Xpansion Mod  (fan expansion for Axis &amp; Allies Europe 1940)</name>
+        <yearpublished>2011</yearpublished>
+    </boardgame>
+    <boardgame objectid="37296">
+        <name primary="true">Yahtzee Free for All</name>
+        <yearpublished>2008</yearpublished>
+    </boardgame>
+    <boardgame objectid="162744">
+        <name primary="true">ZomBN1: A Board Game all About Zombie Infested Brighton</name>
+        <yearpublished>2014</yearpublished>
+    </boardgame>
+    <boardgame objectid="23499">
+        <name >¡Allá tú!</name>
+        <yearpublished>2006</yearpublished>
+    </boardgame>
+    <boardgame objectid="25826">
+        <name >Állatkert Lotto</name>
+        <yearpublished>1976</yearpublished>
+    </boardgame>
+    <boardgame objectid="191572">
+        <name >Állatok a fedélzeten</name>
+        <yearpublished>2016</yearpublished>
+    </boardgame>
+    <boardgame objectid="17329">
+        <name >Állatpiramis</name>
+        <yearpublished>2005</yearpublished>
+    </boardgame>
+    <boardgame objectid="12237">
+        <name >Öl für uns alle</name>
+        <yearpublished>1960</yearpublished>
+    </boardgame>
+</boardgames>
