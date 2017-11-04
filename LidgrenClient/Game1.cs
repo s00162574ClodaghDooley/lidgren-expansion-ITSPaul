@@ -6,6 +6,9 @@ using Microsoft.Xna.Framework.Input;
 using System;
 using GameData;
 using Engine.Engines;
+using GameComponentNS;
+using Sprites;
+using CameraNS;
 
 namespace LidgrenClient
 {
@@ -35,6 +38,8 @@ namespace LidgrenClient
         {
             // TODO: Add your initialization logic here
             new InputEngine(this);
+            // Fade text manager to handle multiple text messages from the Server
+            new FadeTextManager(this);
             base.Initialize();
         }
 
@@ -46,8 +51,18 @@ namespace LidgrenClient
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            LidgrenGameClient client = new LidgrenGameClient();
+            LidgrenGameClient client = new LidgrenGameClient(this);
             gameFont = Content.Load<SpriteFont>("GameFont");
+            // Add Game Servvices
+            Services.AddService(gameFont);
+            Services.AddService(spriteBatch);
+            // Create the player component
+            Texture2D background = Content.Load<Texture2D>("background");
+            new SimpleSprite(this, background, Vector2.Zero);
+
+            new Player(this, Content.Load<Texture2D>("Player"), GraphicsDevice.Viewport.Bounds.Center.ToVector2());
+            new Camera(this, Vector2.Zero, background.Bounds.Size.ToVector2());
+
             // TODO: use this.Content to load your game content here
         }
 
@@ -76,48 +91,48 @@ namespace LidgrenClient
 
             }
             // TODO: Add your update logic here
-            checkMessages();
+            //checkMessages();
             base.Update(gameTime);
         }
 
-        private void checkMessages()
-        {
-            NetIncomingMessage ServerMessage;
-            if ((ServerMessage = LidgrenGameClient.client.ReadMessage()) != null)
-            {
-                switch (ServerMessage.MessageType)
-                {
-                    case NetIncomingMessageType.Data:
-                        string message = ServerMessage.ReadString();
-                        LidgrenGameClient.process(ServerMessage, message);
-                        InGameMessage = LidgrenGameClient.ServerMessage;
-                        break;
-                    case NetIncomingMessageType.DiscoveryResponse:
-                        InGameMessage = ServerMessage.ReadString();
-                        LidgrenGameClient.client.Connect(ServerMessage.SenderEndPoint);
-                        InGameMessage = "Connected to " + ServerMessage.SenderEndPoint.Address.ToString();
-                        break;
-                    case NetIncomingMessageType.StatusChanged:
-                        // handle connection status messages
-                        switch (ServerMessage.SenderConnection.Status)
-                        {
-                            /* .. */
-                        }
-                        break;
+        //private void checkMessages()
+        //{
+        //    NetIncomingMessage ServerMessage;
+        //    if ((ServerMessage = LidgrenGameClient.client.ReadMessage()) != null)
+        //    {
+        //        switch (ServerMessage.MessageType)
+        //        {
+        //            case NetIncomingMessageType.Data:
+        //                string message = ServerMessage.ReadString();
+        //                LidgrenGameClient.process(ServerMessage, message);
+        //                InGameMessage = LidgrenGameClient.IncomingServerMessage;
+        //                break;
+        //            case NetIncomingMessageType.DiscoveryResponse:
+        //                InGameMessage = ServerMessage.ReadString();
+        //                LidgrenGameClient.client.Connect(ServerMessage.SenderEndPoint);
+        //                InGameMessage = "Connected to " + ServerMessage.SenderEndPoint.Address.ToString();
+        //                break;
+        //            case NetIncomingMessageType.StatusChanged:
+        //                // handle connection status messages
+        //                switch (ServerMessage.SenderConnection.Status)
+        //                {
+        //                    /* .. */
+        //                }
+        //                break;
 
-                    case NetIncomingMessageType.DebugMessage:
-                        // handle debug messages
-                        // (only received when compiled in DEBUG mode)
-                        //InGameMessage = ServerMessage.ReadString();
-                        break;
+        //            case NetIncomingMessageType.DebugMessage:
+        //                // handle debug messages
+        //                // (only received when compiled in DEBUG mode)
+        //                //InGameMessage = ServerMessage.ReadString();
+        //                break;
 
-                    default:
-                        InGameMessage = "unhandled message with type: "
-                            + ServerMessage.MessageType.ToString();
-                        break;
-                }
-            }
-        }
+        //            default:
+        //                InGameMessage = "unhandled message with type: "
+        //                    + ServerMessage.MessageType.ToString();
+        //                break;
+        //        }
+        //    }
+        //}
 
         /// <summary>
         /// This is called when the game should draw itself.
