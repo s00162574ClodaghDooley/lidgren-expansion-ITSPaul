@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="GameData.DataHandler">
-    <Position X="8.75" Y="4.5" Width="3.25" />
+    <Position X="7" Y="5" Width="3.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAA=</HashCode>
       <FileName>DataHandler.cs</FileName>
@@ -14,49 +14,49 @@
       <FileName>GameData.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="GameData.LeavingData">
+  <Class Name="GameData.LeavingData" Collapsed="true">
     <Position X="4" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAgAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>GameData.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="GameData.GetWorldSize">
-    <Position X="6.25" Y="0.5" Width="1.5" />
+  <Class Name="GameData.GetWorldSize" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAQAA=</HashCode>
       <FileName>GameData.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="GameData.JoinRequestMessage">
+  <Class Name="GameData.JoinRequestMessage" Collapsed="true">
     <Position X="8.5" Y="0.75" Width="2.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAACAA=</HashCode>
       <FileName>GameData.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="GameData.TestMess">
-    <Position X="6.25" Y="2.75" Width="1.5" />
+  <Class Name="GameData.TestMess" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
       <FileName>GameData.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="GameData.ErrorMess">
-    <Position X="2.25" Y="0.5" Width="1.5" />
+  <Class Name="GameData.ErrorMess" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
       <FileName>GameData.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="GameData.GamePacket&lt;T&gt;">
-    <Position X="4.75" Y="4.25" Width="3" />
+    <Position X="7" Y="6.5" Width="3" />
     <TypeIdentifier>
       <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
       <FileName>GameData.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Enum Name="GameData.SENT">
+  <Enum Name="GameData.SENT" Collapsed="true">
     <Position X="9.75" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAAAA=</HashCode>

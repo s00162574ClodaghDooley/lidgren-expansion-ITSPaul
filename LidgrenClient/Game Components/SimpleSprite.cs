@@ -51,4 +51,6 @@ namespace Sprites
             BoundingRect.Y = (int)Position.Y;
         }
     }
+
+    
 }

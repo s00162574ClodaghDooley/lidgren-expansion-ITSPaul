@@ -67,20 +67,15 @@ namespace LidgrenServer
                 DataHandler.sendNetMess<PlayerData>(server, found, SENT.TOALL);
             }
         }
-
-       
-
         private static void process(ErrorMess errorMess)
         {
             if (errorMess == null) return;
 
         }
-
         private static void process(PlayerData playerData)
         {
             if (playerData == null) return;
         }
-
         private static void process(TestMess testMess)
         {
             if (testMess == null) return;
