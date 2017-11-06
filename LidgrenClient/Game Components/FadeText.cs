@@ -25,7 +25,8 @@ namespace GameComponentNS
 
         public override void Update(GameTime gameTime)
         {
-            var faders = Game.Components.Where(t => t.GetType() == typeof(FadeText));
+            var faders = Game.Components.Where(
+                            t => t.GetType() == typeof(FadeText));
             if(faders.Count() > 0)
             {
                 Vector2 b = basePosition;

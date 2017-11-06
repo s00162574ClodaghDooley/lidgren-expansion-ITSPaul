@@ -22,7 +22,7 @@ namespace LidgrenClient
         public LidgrenGameClient(Game game) : base(game)
         {
             game.Components.Add(this);
-            ClientConfig = new NetPeerConfiguration("myGame");
+            ClientConfig = new NetPeerConfiguration("ppMyGame");
             //for the client
             ClientConfig.EnableMessageType(NetIncomingMessageType.DiscoveryResponse);
             client = new NetClient(ClientConfig);

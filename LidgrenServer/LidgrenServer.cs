@@ -14,7 +14,7 @@ namespace LidgrenServer
         public static List<PlayerData> Players = new List<PlayerData>();
         public static List<PlayerData> RegisteredPlayers = new List<PlayerData>();
 
-        public static NetPeerConfiguration config = new NetPeerConfiguration("myGame")
+        public static NetPeerConfiguration config = new NetPeerConfiguration("ppMyGame")
         {
             Port = 5001
         };
