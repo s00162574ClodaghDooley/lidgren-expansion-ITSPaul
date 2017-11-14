@@ -51,6 +51,8 @@ namespace GameData
 
     }
 
+    public class Initialise { public string message;  };
+
     public class JoinRequestMessage
     {
         public string TagName;
@@ -67,7 +69,11 @@ namespace GameData
     {
         public string message = "Error --> ";
     }
-
+    public class Joined
+    {
+        public string playerId;
+        public string gameTag;
+    }
 
     public class GamePacket<T>{
         public GamePacket(T obj)

@@ -2,6 +2,8 @@
 using GameData;
 using Lidgren.Network;
 using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Sprites;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -53,7 +55,10 @@ namespace LidgrenClient
                         LidgrenGameClient.client.Connect(ServerMessage.SenderEndPoint);
                          IncomingServerMessage = "Connected to " + ServerMessage.SenderEndPoint.Address.ToString();
                         new FadeText(Game, Vector2.Zero, IncomingServerMessage);
+                        DataHandler.sendNetMess<Initialise>(client,
+                       new Initialise { message = "Client connected" }, SENT.FROMCLIENT);
                         break;
+                        
                     case NetIncomingMessageType.StatusChanged:
                         // handle connection status messages
                         switch (ServerMessage.SenderConnection.Status)
@@ -86,6 +91,7 @@ namespace LidgrenClient
             process(DataHandler.ExtractMessage<ErrorMess>(inMess));
             process(DataHandler.ExtractMessage<PlayerData>(inMess));
             process(DataHandler.ExtractMessage<LeavingData>(inMess));
+            process(DataHandler.ExtractMessage<Joined>(inMess));
 
         }
         public void process(LeavingData leaving)
@@ -118,6 +124,24 @@ namespace LidgrenClient
         {
             if (testMess == null) return;
             else new FadeText(Game, Vector2.Zero, testMess.message); 
+        }
+
+        private void process(Joined jMessage)
+        {
+            if(player == null)
+            {
+                // Create a new player component 
+                Player p = new Player(Game, 
+                    Game.Content.Load<Texture2D>("Player"), 
+                    Game.GraphicsDevice.Viewport.Bounds.Center.ToVector2());
+                p.playerData = new PlayerData("Created", "Player", 
+                                jMessage.playerId, jMessage.gameTag, 
+                                p.Position.X, p.Position.Y);
+            }
+            else
+            { // We have another player
+                new FadeText(Game, Vector2.Zero, jMessage.gameTag + " has Joined the game");
+            }
         }
     }
 }

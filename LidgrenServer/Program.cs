@@ -42,6 +42,7 @@ namespace LidgrenServer
                             //send a response
                             Server.server.SendDiscoveryResponse(msg, msgIn.SenderEndPoint);
                             // Create Player
+                            //Server.CreatePlayer();
                             break;
                         case NetIncomingMessageType.ConnectionApproval:
                             msgIn.SenderConnection.Approve();

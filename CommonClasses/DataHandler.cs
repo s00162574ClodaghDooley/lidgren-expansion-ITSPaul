@@ -24,6 +24,8 @@ namespace GameData
                     case "LeavingData":
                     case "ErrorMess":
                     case "JoinRequestMessage":
+                    case "Joined":
+                    case "Initialise":
                         return (T)Convert.ChangeType(t.val, t.type);
                     default:
                         return default(T);

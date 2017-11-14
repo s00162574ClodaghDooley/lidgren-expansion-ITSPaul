@@ -8,14 +8,15 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Audio;
 using Engine.Engines;
+using GameData;
 
 namespace Sprites
 {
     public enum DIRECTION { LEFT, RIGHT, UP,DOWN, STARTING }
-
+    
         class Player : SimpleSprite
         {
-            
+            public PlayerData playerData;
             protected float playerVelocity = 6.0f;
             public Player(Game g, Texture2D texture, Vector2 userPosition) : base(g,texture,userPosition)
             {

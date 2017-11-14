@@ -60,7 +60,7 @@ namespace LidgrenClient
             Texture2D background = Content.Load<Texture2D>("background");
             new SimpleSprite(this, background, Vector2.Zero);
 
-            new Player(this, Content.Load<Texture2D>("Player"), GraphicsDevice.Viewport.Bounds.Center.ToVector2());
+            //new Player(this, Content.Load<Texture2D>("Player"), GraphicsDevice.Viewport.Bounds.Center.ToVector2());
             new Camera(this, Vector2.Zero, background.Bounds.Size.ToVector2());
 
             // TODO: use this.Content to load your game content here

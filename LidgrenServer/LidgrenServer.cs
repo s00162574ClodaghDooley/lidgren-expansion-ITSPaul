@@ -40,8 +40,24 @@ namespace LidgrenServer
             process(DataHandler.ExtractMessage<PlayerData>(inMess));
             process(DataHandler.ExtractMessage<LeavingData>(inMess));
             process(DataHandler.ExtractMessage<JoinRequestMessage>(inMess));
+            process(DataHandler.ExtractMessage<Initialise>(inMess));
 
         }
+
+        private static void process(Initialise initialise)
+        {
+            CreatePlayer();
+        }
+
+        public static void CreatePlayer()
+        {
+            // Create a new player with Id of the players
+            string playerID = Players.Count().ToString();
+            Players.Add(new PlayerData("", "", playerID, "Player " + playerID, 0f, 0f));
+            DataHandler.sendNetMess<Joined>(Server.server,
+                       new Joined { playerId = playerID, gameTag = "Player " + playerID }, SENT.TOALL);
+        }
+    
         public static void process(LeavingData leaving)
         {
             if (leaving == null) return;
