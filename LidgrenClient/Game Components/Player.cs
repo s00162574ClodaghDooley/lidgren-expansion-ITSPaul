@@ -10,6 +10,7 @@ using Microsoft.Xna.Framework.Audio;
 using Engine.Engines;
 using GameData;
 using CameraNS;
+using LidgrenClient;
 
 namespace Sprites
 {
@@ -19,9 +20,10 @@ namespace Sprites
         {
             public PlayerData playerData;
             protected float playerVelocity = 6.0f;
+            private Vector2 PreviousPosition;
             public Player(Game g, Texture2D texture, Vector2 userPosition) : base(g,texture,userPosition)
             {
-            
+            PreviousPosition = userPosition;
 
             }
 
@@ -30,7 +32,7 @@ namespace Sprites
         public override void Update(GameTime gameTime)
         {
            
-
+            
             if (InputEngine.IsKeyHeld(Keys.D))
             {
                 Position += new Vector2(1, 0) * playerVelocity;
@@ -48,9 +50,26 @@ namespace Sprites
             {
                 Position += new Vector2(0, 1) * playerVelocity;
             }
+            if(Position != PreviousPosition)
+            {
+                // Update the player Data packet
+                // Send MovedData Message to the server
+                // No need to Retrieve the client GameComponent as we have a staic reference 
+                // to the client
+
+                playerData.X = Position.X;
+                playerData.Y = Position.Y;
+                // Send the message for movement
+                DataHandler.sendNetMess<MovedData>(LidgrenGameClient.client,
+                           new MovedData { playerID = playerData.playerID,
+                                            toX = playerData.X, toY = playerData.Y }, 
+                           SENT.FROMCLIENT);
+
+            }
+
             if (InputEngine.IsKeyPressed(Keys.Space))
                 new Projectile(Game, Game.Content.Load<Texture2D>("Coin"), Position);
-
+            PreviousPosition = Position;
             base.Update(gameTime);
         }
 

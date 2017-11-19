@@ -36,10 +36,16 @@ namespace GameData
             return header + ":" + playerID + ":" + X.ToString() + ":" + Y.ToString();
         }
 
-        
+
     }
 
-    
+    public class MovedData
+    {
+        public string playerID;
+        public float toX;
+        public float toY;
+    }
+
     public class LeavingData
     {
         public string playerID;

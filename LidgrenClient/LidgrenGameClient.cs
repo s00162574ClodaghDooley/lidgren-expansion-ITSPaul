@@ -89,8 +89,9 @@ namespace LidgrenClient
             process(DataHandler.ExtractMessage<ErrorMess>(inMess));
             process(DataHandler.ExtractMessage<PlayerData>(inMess));
             process(DataHandler.ExtractMessage<LeavingData>(inMess));
+            // New messages to be dealth with
             process(DataHandler.ExtractMessage<Joined>(inMess));
-
+            process(DataHandler.ExtractMessage<MovedData>(inMess));
         }
         public void process(LeavingData leaving)
         {
@@ -123,10 +124,13 @@ namespace LidgrenClient
             if (testMess == null) return;
             else new FadeText(Game, Vector2.Zero, testMess.message); 
         }
+
+        // Deal with a newly joined player
         private void process(Joined jMessage)
         {
             // The player Data maintained by the client shoudl eb kept in sync with 
             // The player Data of the game player object
+            if (jMessage == null) return;
             if (playerData == null)
             {
                 // Create a new player component 
@@ -146,7 +150,7 @@ namespace LidgrenClient
                 {
                     if (otherPlayers.FirstOrDefault(p => p.playerID == jMessage.playerId) == null)
                     {
-                        // Create a position for the player
+                        // Create a position for the other player
                         Vector2 otherPos = new Vector2(Game.GraphicsDevice.Viewport.Bounds.Center.X,
                                                         Game.GraphicsDevice.Viewport.Bounds.Center.Y);
                         // Other players created at the centre also
@@ -164,6 +168,43 @@ namespace LidgrenClient
                         new FadeText(Game, Vector2.Zero, jMessage.gameTag + " has Joined the game");
                     }
                 }
+            }
+        }
+
+        // Respond to a moved message in sent to this client
+        // The player in this client will issue a moved message to the server when it moves        
+        private void process(MovedData moved)
+        {
+            if (moved == null)
+                return;
+            // IF We get back our own moved message do nothing
+            if (moved.playerID == playerData.playerID)
+                return;
+
+            else
+            { // Another player has moved so we find the component associated with the player id 
+                // and we 
+
+                PlayerData other = otherPlayers.FirstOrDefault(p => p.playerID == moved.playerID);
+                if(other != null)
+                {
+                    // Update this client's copy of the other's data
+                    other.X = moved.toX;
+                    other.Y = moved.toY;
+                    // Find the component that correspond to the player Id coming in
+                    var OtherPlayers = Game.Components.Where(o => o.GetType() == typeof(OtherPlayer)).ToList();
+                    foreach (OtherPlayer p in OtherPlayers)
+                    {
+                        if (p.playerData.playerID == moved.playerID)
+                        {
+                            p.playerData.X = moved.toX;
+                            p.playerData.Y = moved.toY;
+                            p.Position = new Vector2(playerData.X, playerData.Y);
+                        }
+                    }
+
+                }
+
             }
         }
 

@@ -41,11 +41,36 @@ namespace LidgrenServer
             process(DataHandler.ExtractMessage<LeavingData>(inMess));
             process(DataHandler.ExtractMessage<JoinRequestMessage>(inMess));
             process(DataHandler.ExtractMessage<Initialise>(inMess));
+            process(DataHandler.ExtractMessage<MovedData>(inMess));
+
+
+        }
+
+        private static void process(MovedData movedData)
+        {
+            if (movedData == null)
+                return;
+            // Update the player position on the server
+            PlayerData player = Players.First(p => p.playerID == movedData.playerID);
+            player.X = movedData.toX;
+            player.Y = movedData.toY;
+            // Tell all the clients the new position
+            DataHandler.sendNetMess<MovedData>(server,
+           new MovedData
+           {
+               playerID = movedData.playerID,
+               toX = movedData.toX,
+               toY = movedData.toY
+           },
+           SENT.TOALL);
+
 
         }
 
         private static void process(Initialise initialise)
         {
+            // Forgot this in the previous commit
+            if (initialise == null) return;
             CreatePlayer();
         }
 
