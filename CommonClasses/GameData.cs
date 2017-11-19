@@ -38,6 +38,8 @@ namespace GameData
 
         
     }
+
+    
     public class LeavingData
     {
         public string playerID;
@@ -73,6 +75,8 @@ namespace GameData
     {
         public string playerId;
         public string gameTag;
+        public int atX;
+        public int atY;
     }
 
     public class GamePacket<T>{

@@ -1,6 +1,7 @@
 ﻿using GameComponentNS;
 using GameData;
 using Lidgren.Network;
+using LidgrenClient.Game_Components;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Sprites;
@@ -14,7 +15,7 @@ namespace LidgrenClient
 {
     public class LidgrenGameClient : GameComponent
     {
-        public static PlayerData player;
+        public static PlayerData playerData;
         public static List<PlayerData> otherPlayers = new List<PlayerData>();
         public static  NetPeerConfiguration ClientConfig;
         public static NetClient client;
@@ -82,9 +83,6 @@ namespace LidgrenClient
                 }
             }
         }
-
-
-
         public void process(NetIncomingMessage msgIn, string inMess)
         {
             process(DataHandler.ExtractMessage<TestMess>(inMess));
@@ -125,23 +123,49 @@ namespace LidgrenClient
             if (testMess == null) return;
             else new FadeText(Game, Vector2.Zero, testMess.message); 
         }
-
         private void process(Joined jMessage)
         {
-            if(player == null)
+            // The player Data maintained by the client shoudl eb kept in sync with 
+            // The player Data of the game player object
+            if (playerData == null)
             {
                 // Create a new player component 
-                Player p = new Player(Game, 
-                    Game.Content.Load<Texture2D>("Player"), 
+                Player p = new Player(Game,
+                    Game.Content.Load<Texture2D>("Player"),
                     Game.GraphicsDevice.Viewport.Bounds.Center.ToVector2());
-                p.playerData = new PlayerData("Created", "Player", 
-                                jMessage.playerId, jMessage.gameTag, 
+                // Fill in the new player Component Data
+                p.playerData = new PlayerData("Created", "Player",
+                                jMessage.playerId, jMessage.gameTag,
                                 p.Position.X, p.Position.Y);
+                // set this players player Data
+                playerData = p.playerData;
             }
             else
             { // We have another player
-                new FadeText(Game, Vector2.Zero, jMessage.gameTag + " has Joined the game");
+                if (playerData.playerID != jMessage.playerId)
+                {
+                    if (otherPlayers.FirstOrDefault(p => p.playerID == jMessage.playerId) == null)
+                    {
+                        // Create a position for the player
+                        Vector2 otherPos = new Vector2(Game.GraphicsDevice.Viewport.Bounds.Center.X,
+                                                        Game.GraphicsDevice.Viewport.Bounds.Center.Y);
+                        // Other players created at the centre also
+                        // Create the player Data
+                        PlayerData data = new PlayerData("Other", "Player",
+                                        jMessage.playerId, jMessage.gameTag,
+                                        otherPos.X, otherPos.Y);
+                        // Create the game player for the other player
+                        OtherPlayer p = new OtherPlayer(Game,
+                        Game.Content.Load<Texture2D>("Player"),
+                        Game.GraphicsDevice.Viewport.Bounds.Center.ToVector2());
+                        p.playerData = data;
+                        // Remember the other players
+                        otherPlayers.Add(data);
+                        new FadeText(Game, Vector2.Zero, jMessage.gameTag + " has Joined the game");
+                    }
+                }
             }
         }
+
     }
 }

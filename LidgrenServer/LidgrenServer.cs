@@ -13,7 +13,7 @@ namespace LidgrenServer
     {
         public static List<PlayerData> Players = new List<PlayerData>();
         public static List<PlayerData> RegisteredPlayers = new List<PlayerData>();
-
+        public static GetWorldSize world = new GetWorldSize { X = 800, y = 600 };
         public static NetPeerConfiguration config = new NetPeerConfiguration("ppMyGame")
         {
             Port = 5001
@@ -56,6 +56,15 @@ namespace LidgrenServer
             Players.Add(new PlayerData("", "", playerID, "Player " + playerID, 0f, 0f));
             DataHandler.sendNetMess<Joined>(Server.server,
                        new Joined { playerId = playerID, gameTag = "Player " + playerID }, SENT.TOALL);
+            // Tell all the clients that the there is a new player and all the players so far
+            foreach (PlayerData player in Players)
+            {
+                DataHandler.sendNetMess<Joined>(Server.server,
+           new Joined { playerId = player.playerID, gameTag = "Player " + playerID }, SENT.TOALL);
+
+            }
+
+
         }
     
         public static void process(LeavingData leaving)

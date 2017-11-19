@@ -41,8 +41,7 @@ namespace LidgrenServer
                             msg.Write("Greetings from " + Server.config.AppIdentifier + " server ");
                             //send a response
                             Server.server.SendDiscoveryResponse(msg, msgIn.SenderEndPoint);
-                            // Create Player
-                            //Server.CreatePlayer();
+                            // Create Player later to ensure proper discovery 
                             break;
                         case NetIncomingMessageType.ConnectionApproval:
                             msgIn.SenderConnection.Approve();

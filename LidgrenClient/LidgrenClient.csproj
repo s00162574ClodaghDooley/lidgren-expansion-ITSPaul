@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Game Components\Camera.cs" />
     <Compile Include="Game Components\FadeText.cs" />
+    <Compile Include="Game Components\OtherPlayer.cs" />
     <Compile Include="Game Components\Player.cs" />
     <Compile Include="Game Components\Projectile.cs" />
     <Compile Include="Game Components\SimpleSprite.cs" />

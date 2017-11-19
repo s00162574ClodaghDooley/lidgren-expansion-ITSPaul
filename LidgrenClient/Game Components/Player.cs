@@ -9,6 +9,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Audio;
 using Engine.Engines;
 using GameData;
+using CameraNS;
 
 namespace Sprites
 {
@@ -20,6 +21,7 @@ namespace Sprites
             protected float playerVelocity = 6.0f;
             public Player(Game g, Texture2D texture, Vector2 userPosition) : base(g,texture,userPosition)
             {
+            
 
             }
 
@@ -54,7 +56,16 @@ namespace Sprites
 
         public override void Draw(GameTime gameTime)
         {
+            SpriteBatch sp = Game.Services.GetService<SpriteBatch>();
+            SpriteFont font = Game.Services.GetService<SpriteFont>();
+            // Draw the Image First
             base.Draw(gameTime);
+            // Now draw the player id using the camera
+            sp.Begin(SpriteSortMode.BackToFront, null, null, null, null, null, Camera.CurrentCameraTranslation);
+            sp.DrawString(font, playerData.playerID.ToString(), 
+                BoundingRect.Center.ToVector2() - font.MeasureString(playerData.playerID)/2, 
+                Color.White);
+            sp.End();
         }
     }
 
