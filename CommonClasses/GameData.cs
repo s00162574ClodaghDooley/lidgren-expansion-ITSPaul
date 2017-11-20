@@ -51,6 +51,14 @@ namespace GameData
         public string playerID;
         public string Tag;
     }
+    public class CollectableData
+    {
+        public string collectableID;
+        public float X;
+        public float Y;
+        public int Value;
+        public string AssetName;
+    }
 
     public class GetWorldSize
     {

@@ -11,10 +11,24 @@ namespace LidgrenServer
 {
     public class Server
     {
+        public static string[] collectableNames = new string[]
+        {
+            "Badges_0","Badges_1","Badges_2","Badges_3","Badges_4","Badges_5","Badges_6","Badges_7","Badges_8","Badges_9","Badges_10","Badges_11","Badges_12",
+        };
+        public static List<CollectableData> collectables = new List<CollectableData>()
+        {
+            new CollectableData
+            {
+                AssetName = collectableNames[new Random().Next(collectableNames.Count()-1)],
+                Value = new Random().Next(10,20),
+                X = new Random().Next(0,800),
+                Y = new Random().Next(0,600),
+            }
+        };
         public static List<PlayerData> Players = new List<PlayerData>();
         public static List<PlayerData> RegisteredPlayers = new List<PlayerData>();
         public static GetWorldSize world = new GetWorldSize { X = 800, y = 600 };
-        public static NetPeerConfiguration config = new NetPeerConfiguration("ppMyGame")
+        public static NetPeerConfiguration config = new NetPeerConfiguration("magam")
         {
             Port = 5001
         };
@@ -82,6 +96,12 @@ namespace LidgrenServer
             DataHandler.sendNetMess<Joined>(Server.server,
                        new Joined { playerId = playerID, gameTag = "Player " + playerID }, SENT.TOALL);
             // Tell all the clients that the there is a new player and all the players so far
+
+            //Send Collectables
+            foreach (CollectableData collectable in collectables)
+            {
+                DataHandler.sendNetMess<CollectableData>(Server.server, collectable, SENT.TOALL);
+            }
             foreach (PlayerData player in Players)
             {
                 DataHandler.sendNetMess<Joined>(Server.server,

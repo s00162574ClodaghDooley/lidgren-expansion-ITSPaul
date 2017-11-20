@@ -27,6 +27,7 @@ namespace GameData
                     case "Joined":
                     case "Initialise":
                     case "MovedData":
+                    case "CollectableData":
                         return (T)Convert.ChangeType(t.val, t.type);
                     default:
                         return default(T);

@@ -43,6 +43,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Game Components\Camera.cs" />
+    <Compile Include="Game Components\Collectable.cs" />
     <Compile Include="Game Components\FadeText.cs" />
     <Compile Include="Game Components\OtherPlayer.cs" />
     <Compile Include="Game Components\Player.cs" />

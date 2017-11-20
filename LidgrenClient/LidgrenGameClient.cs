@@ -25,7 +25,7 @@ namespace LidgrenClient
         public LidgrenGameClient(Game game) : base(game)
         {
             game.Components.Add(this);
-            ClientConfig = new NetPeerConfiguration("ppMyGame");
+            ClientConfig = new NetPeerConfiguration("magam");
             //for the client
             ClientConfig.EnableMessageType(NetIncomingMessageType.DiscoveryResponse);
             client = new NetClient(ClientConfig);
@@ -92,7 +92,18 @@ namespace LidgrenClient
             // New messages to be dealth with
             process(DataHandler.ExtractMessage<Joined>(inMess));
             process(DataHandler.ExtractMessage<MovedData>(inMess));
+            process(DataHandler.ExtractMessage<CollectableData>(inMess));
         }
+
+        private void process(CollectableData collectableData)
+        {
+            //create new collectable game item
+            if (collectableData != null)
+            {
+                new Collectable(Game, collectableData, Game.Content.Load<Texture2D>(@"Collectables\" + collectableData.AssetName), new Vector2(collectableData.X, collectableData.Y));
+            }
+        }
+
         public void process(LeavingData leaving)
         {
             if (leaving == null) return;
